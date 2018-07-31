@@ -1,0 +1,525 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/system_nrf52.o
+ .text          0x00000000        0x0 _build/system_nrf52.o
+ .data          0x00000000        0x0 _build/system_nrf52.o
+ .bss           0x00000000        0x0 _build/system_nrf52.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x10 _build/system_nrf52.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .group         0x00000000        0x8 _build/main.o
+ .text          0x00000000        0x0 _build/main.o
+ .data          0x00000000        0x0 _build/main.o
+ .bss           0x00000000        0x0 _build/main.o
+ .debug_macro   0x00000000      0x8e6 _build/main.o
+ .debug_macro   0x00000000       0x22 _build/main.o
+ .debug_macro   0x00000000       0x22 _build/main.o
+ .debug_macro   0x00000000       0x44 _build/main.o
+ .debug_macro   0x00000000       0xe3 _build/main.o
+ .debug_macro   0x00000000       0x22 _build/main.o
+ .debug_macro   0x00000000      0x1df _build/main.o
+ .debug_macro   0x00000000       0x1c _build/main.o
+ .debug_macro   0x00000000       0x2d _build/main.o
+ .debug_macro   0x00000000       0x3b _build/main.o
+ .debug_macro   0x00000000       0x50 _build/main.o
+ .debug_macro   0x00000000      0xe66 _build/main.o
+ .debug_macro   0x00000000      0x3a0 _build/main.o
+ .debug_macro   0x00000000    0x10245 _build/main.o
+ .debug_macro   0x00000000     0x12c7 _build/main.o
+ .debug_macro   0x00000000       0x7c _build/main.o
+ .debug_macro   0x00000000       0x1c _build/main.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .group         0x00000000        0x8 _build/nrf_delay.o
+ .text          0x00000000        0x0 _build/nrf_delay.o
+ .data          0x00000000        0x0 _build/nrf_delay.o
+ .bss           0x00000000        0x0 _build/nrf_delay.o
+ .debug_macro   0x00000000      0x8e6 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x22 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x1c _build/nrf_delay.o
+ .debug_macro   0x00000000       0x2d _build/nrf_delay.o
+ .debug_macro   0x00000000       0xe3 _build/nrf_delay.o
+ .debug_macro   0x00000000      0x1df _build/nrf_delay.o
+ .debug_macro   0x00000000       0x50 _build/nrf_delay.o
+ .debug_macro   0x00000000      0xe66 _build/nrf_delay.o
+ .debug_macro   0x00000000      0x3a0 _build/nrf_delay.o
+ .debug_macro   0x00000000    0x10245 _build/nrf_delay.o
+ .debug_macro   0x00000000     0x12c7 _build/nrf_delay.o
+ .debug_macro   0x00000000       0x7c _build/nrf_delay.o
+ .data          0x00000000        0x0 _build/gcc_startup_nrf52.o
+ .bss           0x00000000        0x0 _build/gcc_startup_nrf52.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00080000         xr
+RAM              0x20000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x00000000      0x964
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x400 _build/gcc_startup_nrf52.o
+                0x00000000                __isr_vector
+ *(.text*)
+ .text          0x00000400       0x5c c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .text          0x0000045c       0x74 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x0000045c                _start
+                0x0000045c                _mainCRTStartup
+ .text.exit     0x000004d0       0x28 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+                0x000004d0                exit
+ .text.__libc_init_array
+                0x000004f8       0x4c c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+                0x000004f8                __libc_init_array
+ .text.memset   0x00000544       0x10 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+                0x00000544                memset
+ .text._exit    0x00000554        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+                0x00000554                _exit
+ .text.SystemInit
+                0x00000558      0x2b0 _build/system_nrf52.o
+                0x00000558                SystemInit
+ .text.startup.main
+                0x00000808       0x60 _build/main.o
+                0x00000808                main
+ .text.nrf_delay_ms
+                0x00000868       0x98 _build/nrf_delay.o
+                0x00000868                nrf_delay_ms
+ .text          0x00000900       0x3c _build/gcc_startup_nrf52.o
+                0x00000900                Reset_Handler
+                0x00000928                NMI_Handler
+                0x0000092a                HardFault_Handler
+                0x0000092c                MemoryManagement_Handler
+                0x0000092e                BusFault_Handler
+                0x00000930                UsageFault_Handler
+                0x00000932                SVC_Handler
+                0x00000934                DebugMonitor_Handler
+                0x00000936                PendSV_Handler
+                0x00000938                SysTick_Handler
+                0x0000093a                POWER_CLOCK_IRQHandler
+                0x0000093a                RADIO_IRQHandler
+                0x0000093a                PDM_IRQHandler
+                0x0000093a                TEMP_IRQHandler
+                0x0000093a                QDEC_IRQHandler
+                0x0000093a                TIMER3_IRQHandler
+                0x0000093a                PWM1_IRQHandler
+                0x0000093a                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x0000093a                GPIOTE_IRQHandler
+                0x0000093a                UARTE0_UART0_IRQHandler
+                0x0000093a                TIMER4_IRQHandler
+                0x0000093a                I2S_IRQHandler
+                0x0000093a                SWI4_EGU4_IRQHandler
+                0x0000093a                FPU_IRQHandler
+                0x0000093a                TIMER2_IRQHandler
+                0x0000093a                TIMER1_IRQHandler
+                0x0000093a                PWM2_IRQHandler
+                0x0000093a                ECB_IRQHandler
+                0x0000093a                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x0000093a                Default_Handler
+                0x0000093a                SAADC_IRQHandler
+                0x0000093a                CCM_AAR_IRQHandler
+                0x0000093a                WDT_IRQHandler
+                0x0000093a                SWI2_EGU2_IRQHandler
+                0x0000093a                SWI5_EGU5_IRQHandler
+                0x0000093a                RNG_IRQHandler
+                0x0000093a                RTC2_IRQHandler
+                0x0000093a                PWM0_IRQHandler
+                0x0000093a                SWI3_EGU3_IRQHandler
+                0x0000093a                RTC1_IRQHandler
+                0x0000093a                SWI1_EGU1_IRQHandler
+                0x0000093a                SPIM2_SPIS2_SPI2_IRQHandler
+                0x0000093a                NFCT_IRQHandler
+                0x0000093a                SWI0_EGU0_IRQHandler
+                0x0000093a                MWU_IRQHandler
+                0x0000093a                RTC0_IRQHandler
+                0x0000093a                TIMER0_IRQHandler
+                0x0000093a                COMP_LPCOMP_IRQHandler
+ *(.init)
+ .init          0x0000093c        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                0x0000093c                _init
+ .init          0x00000940        0x8 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x00000948        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                0x00000948                _fini
+ .fini          0x0000094c        0x8 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00000954        0x2 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ *fill*         0x00000956        0x2 
+ .rodata._global_impure_ptr
+                0x00000958        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+                0x00000958                _global_impure_ptr
+ .rodata.leds_list
+                0x0000095c        0x4 _build/main.o
+                0x0000095c                leds_list
+ *(.eh_frame*)
+ .eh_frame      0x00000960        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x00000960        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+
+.glue_7         0x00000964        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00000964        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00000964        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00000964        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00000964        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000964                __exidx_start = .
+
+.ARM.exidx      0x00000964        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00000964        0x8 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x0000096c                __exidx_end = .
+                0x0000096c                __etext = .
+
+.rel.dyn        0x0000096c        0x0
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.data           0x20000000       0x70 load address 0x0000096c
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x20000000       0x60 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .data.SystemCoreClock
+                0x20000060        0x4 _build/system_nrf52.o
+                0x20000060                SystemCoreClock
+                0x20000064                . = ALIGN (0x4)
+                0x20000064                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000064                PROVIDE (__preinit_array_end, .)
+                0x20000064                . = ALIGN (0x4)
+                0x20000064                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000064        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x20000068                PROVIDE (__init_array_end, .)
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000068        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x2000006c                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x2000006c        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .jcr           0x2000006c        0x4 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+                0x20000070                . = ALIGN (0x4)
+                0x20000070                __data_end__ = .
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a
+LOAD _build/system_nrf52.o
+LOAD _build/main.o
+LOAD _build/nrf_delay.o
+LOAD _build/gcc_startup_nrf52.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a
+END GROUP
+
+.igot.plt       0x20000070        0x0 load address 0x000009dc
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.fs_data        0x20000070        0x0
+                0x20000070                PROVIDE (__start_fs_data, .)
+ *(.fs_data)
+                0x20000070                PROVIDE (__stop_fs_data, .)
+
+.bss            0x20000070       0x1c load address 0x000009dc
+                0x20000070                . = ALIGN (0x4)
+                0x20000070                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000070       0x1c c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ *(COMMON)
+                0x2000008c                . = ALIGN (0x4)
+                0x2000008c                __bss_end__ = .
+
+.heap           0x20000090     0x2000
+                0x20000090                __end__ = .
+                0x20000090                PROVIDE (end, .)
+ *(.heap*)
+ .heap          0x20000090     0x2000 _build/gcc_startup_nrf52.o
+                0x20000090                __HeapBase
+                0x20002090                __HeapLimit = .
+
+.stack_dummy    0x20000090     0x2000
+ *(.stack*)
+ .stack         0x20000090     0x2000 _build/gcc_startup_nrf52.o
+                0x20010000                __StackTop = (ORIGIN (RAM) + 0x10000)
+                0x2000e000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20010000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x00000076       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000aa       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000de       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000112       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000146       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000017a       0x39 _build/system_nrf52.o
+ .ARM.attributes
+                0x000001b3       0x39 _build/main.o
+ .ARM.attributes
+                0x000001ec       0x39 _build/nrf_delay.o
+ .ARM.attributes
+                0x00000225       0x1c _build/gcc_startup_nrf52.o
+ .ARM.attributes
+                0x00000241       0x34 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000275       0x22 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 _build/system_nrf52.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 _build/main.o
+ .comment       0x00000000       0x71 _build/nrf_delay.o
+
+.debug_frame    0x00000000      0x12c
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000028       0x2c c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000054       0x20 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000074       0x20 c:/program files (x86)/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .debug_frame   0x00000094       0x40 _build/system_nrf52.o
+ .debug_frame   0x000000d4       0x30 _build/main.o
+ .debug_frame   0x00000104       0x28 _build/nrf_delay.o
+
+.debug_info     0x00000000     0x1315
+ .debug_info    0x00000000      0xdc1 _build/system_nrf52.o
+ .debug_info    0x00000dc1      0x422 _build/main.o
+ .debug_info    0x000011e3      0x132 _build/nrf_delay.o
+
+.debug_abbrev   0x00000000      0x45b
+ .debug_abbrev  0x00000000      0x1d3 _build/system_nrf52.o
+ .debug_abbrev  0x000001d3      0x1b8 _build/main.o
+ .debug_abbrev  0x0000038b       0xd0 _build/nrf_delay.o
+
+.debug_aranges  0x00000000       0x68
+ .debug_aranges
+                0x00000000       0x28 _build/system_nrf52.o
+ .debug_aranges
+                0x00000028       0x20 _build/main.o
+ .debug_aranges
+                0x00000048       0x20 _build/nrf_delay.o
+
+.debug_ranges   0x00000000      0x148
+ .debug_ranges  0x00000000       0xf0 _build/system_nrf52.o
+ .debug_ranges  0x000000f0       0x48 _build/main.o
+ .debug_ranges  0x00000138       0x10 _build/nrf_delay.o
+
+.debug_macro    0x00000000    0x14612
+ .debug_macro   0x00000000       0xe6 _build/system_nrf52.o
+ .debug_macro   0x000000e6      0x8e6 _build/system_nrf52.o
+ .debug_macro   0x000009cc       0x22 _build/system_nrf52.o
+ .debug_macro   0x000009ee       0x44 _build/system_nrf52.o
+ .debug_macro   0x00000a32       0xe3 _build/system_nrf52.o
+ .debug_macro   0x00000b15       0x22 _build/system_nrf52.o
+ .debug_macro   0x00000b37      0x1df _build/system_nrf52.o
+ .debug_macro   0x00000d16       0x22 _build/system_nrf52.o
+ .debug_macro   0x00000d38       0x1c _build/system_nrf52.o
+ .debug_macro   0x00000d54       0x2d _build/system_nrf52.o
+ .debug_macro   0x00000d81       0x3b _build/system_nrf52.o
+ .debug_macro   0x00000dbc       0x50 _build/system_nrf52.o
+ .debug_macro   0x00000e0c      0xe66 _build/system_nrf52.o
+ .debug_macro   0x00001c72      0x3a0 _build/system_nrf52.o
+ .debug_macro   0x00002012    0x10245 _build/system_nrf52.o
+ .debug_macro   0x00012257     0x12c7 _build/system_nrf52.o
+ .debug_macro   0x0001351e       0x7c _build/system_nrf52.o
+ .debug_macro   0x0001359a       0x1c _build/system_nrf52.o
+ .debug_macro   0x000135b6      0x107 _build/main.o
+ .debug_macro   0x000136bd       0x10 _build/main.o
+ .debug_macro   0x000136cd      0x280 _build/main.o
+ .debug_macro   0x0001394d       0x22 _build/main.o
+ .debug_macro   0x0001396f      0x1c2 _build/nrf_delay.o
+ .debug_macro   0x00013b31       0x58 _build/nrf_delay.o
+ .debug_macro   0x00013b89       0x35 _build/nrf_delay.o
+ .debug_macro   0x00013bbe       0x9c _build/nrf_delay.o
+ .debug_macro   0x00013c5a       0x16 _build/nrf_delay.o
+ .debug_macro   0x00013c70       0x4a _build/nrf_delay.o
+ .debug_macro   0x00013cba       0x97 _build/nrf_delay.o
+ .debug_macro   0x00013d51      0x29d _build/nrf_delay.o
+ .debug_macro   0x00013fee       0xef _build/nrf_delay.o
+ .debug_macro   0x000140dd       0x10 _build/nrf_delay.o
+ .debug_macro   0x000140ed       0x52 _build/nrf_delay.o
+ .debug_macro   0x0001413f       0x16 _build/nrf_delay.o
+ .debug_macro   0x00014155       0x43 _build/nrf_delay.o
+ .debug_macro   0x00014198      0x180 _build/nrf_delay.o
+ .debug_macro   0x00014318       0x10 _build/nrf_delay.o
+ .debug_macro   0x00014328       0x22 _build/nrf_delay.o
+ .debug_macro   0x0001434a       0xbe _build/nrf_delay.o
+ .debug_macro   0x00014408       0x16 _build/nrf_delay.o
+ .debug_macro   0x0001441e      0x197 _build/nrf_delay.o
+ .debug_macro   0x000145b5       0x28 _build/nrf_delay.o
+ .debug_macro   0x000145dd       0x35 _build/nrf_delay.o
+
+.debug_line     0x00000000      0xe92
+ .debug_line    0x00000000      0x4af _build/system_nrf52.o
+ .debug_line    0x000004af      0x53d _build/main.o
+ .debug_line    0x000009ec      0x4a6 _build/nrf_delay.o
+
+.debug_str      0x00000000    0x6fbb2
+ .debug_str     0x00000000    0x6bc45 _build/system_nrf52.o
+                              0x6c6a3 (size before relaxing)
+ .debug_str     0x0006bc45      0xe6b _build/main.o
+                              0x6d08b (size before relaxing)
+ .debug_str     0x0006cab0     0x3102 _build/nrf_delay.o
+                              0x6f338 (size before relaxing)
+
+.debug_loc      0x00000000      0x120
+ .debug_loc     0x00000000       0xe9 _build/main.o
+ .debug_loc     0x000000e9       0x37 _build/nrf_delay.o
