@@ -1039,8 +1039,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xbb _build/app_util_platform.o
  .debug_macro   0x00000000       0x2b _build/app_util_platform.o
  .debug_macro   0x00000000       0x60 _build/app_util_platform.o
- .debug_line    0x00000000      0x644 _build/app_util_platform.o
- .debug_str     0x00000000    0x70c37 _build/app_util_platform.o
+ .debug_line    0x00000000      0x671 _build/app_util_platform.o
+ .debug_str     0x00000000    0x70c49 _build/app_util_platform.o
  .comment       0x00000000       0x71 _build/app_util_platform.o
  .debug_frame   0x00000000       0x98 _build/app_util_platform.o
  .ARM.attributes
@@ -1135,8 +1135,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x67 _build/nrf_assert.o
  .debug_macro   0x00000000       0xbb _build/nrf_assert.o
  .debug_macro   0x00000000       0x2b _build/nrf_assert.o
- .debug_line    0x00000000      0x5cb _build/nrf_assert.o
- .debug_str     0x00000000    0x709f6 _build/nrf_assert.o
+ .debug_line    0x00000000      0x5f8 _build/nrf_assert.o
+ .debug_str     0x00000000    0x70a08 _build/nrf_assert.o
  .comment       0x00000000       0x71 _build/nrf_assert.o
  .ARM.attributes
                 0x00000000       0x39 _build/nrf_assert.o
@@ -1237,8 +1237,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x2b _build/retarget.o
  .debug_macro   0x00000000       0x60 _build/retarget.o
  .debug_macro   0x00000000       0x17 _build/retarget.o
- .debug_line    0x00000000      0x68c _build/retarget.o
- .debug_str     0x00000000    0x711be _build/retarget.o
+ .debug_line    0x00000000      0x6c2 _build/retarget.o
+ .debug_str     0x00000000    0x711d0 _build/retarget.o
  .comment       0x00000000       0x71 _build/retarget.o
  .debug_frame   0x00000000       0x58 _build/retarget.o
  .ARM.attributes
@@ -1340,8 +1340,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xbe _build/nrf_log.o
  .debug_macro   0x00000000       0x16 _build/nrf_log.o
  .debug_macro   0x00000000      0x197 _build/nrf_log.o
- .debug_line    0x00000000      0x5f1 _build/nrf_log.o
- .debug_str     0x00000000    0x70451 _build/nrf_log.o
+ .debug_line    0x00000000      0x61e _build/nrf_log.o
+ .debug_str     0x00000000    0x70463 _build/nrf_log.o
  .comment       0x00000000       0x71 _build/nrf_log.o
  .debug_frame   0x00000000       0x60 _build/nrf_log.o
  .ARM.attributes
@@ -1462,8 +1462,8 @@ Discarded input sections
                 0x00000000       0x18 _build/RTT_Syscalls_KEIL.o
  .debug_macro   0x00000000       0x11 _build/RTT_Syscalls_KEIL.o
  .debug_macro   0x00000000      0x8e6 _build/RTT_Syscalls_KEIL.o
- .debug_line    0x00000000       0x8f _build/RTT_Syscalls_KEIL.o
- .debug_str     0x00000000     0x2637 _build/RTT_Syscalls_KEIL.o
+ .debug_line    0x00000000       0x98 _build/RTT_Syscalls_KEIL.o
+ .debug_str     0x00000000     0x2640 _build/RTT_Syscalls_KEIL.o
  .comment       0x00000000       0x71 _build/RTT_Syscalls_KEIL.o
  .ARM.attributes
                 0x00000000       0x39 _build/RTT_Syscalls_KEIL.o
@@ -1560,8 +1560,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x29d _build/SEGGER_RTT.o
  .debug_macro   0x00000000       0x10 _build/SEGGER_RTT.o
  .debug_macro   0x00000000       0x35 _build/SEGGER_RTT.o
- .debug_line    0x00000000      0x56e _build/SEGGER_RTT.o
- .debug_str     0x00000000     0x5836 _build/SEGGER_RTT.o
+ .debug_line    0x00000000      0x577 _build/SEGGER_RTT.o
+ .debug_str     0x00000000     0x583f _build/SEGGER_RTT.o
  .comment       0x00000000       0x71 _build/SEGGER_RTT.o
  .debug_frame   0x00000000      0x328 _build/SEGGER_RTT.o
  .ARM.attributes
@@ -1577,8 +1577,8 @@ Discarded input sections
                 0x00000000       0x18 _build/SEGGER_RTT_printf.o
  .debug_macro   0x00000000       0x11 _build/SEGGER_RTT_printf.o
  .debug_macro   0x00000000      0x8e6 _build/SEGGER_RTT_printf.o
- .debug_line    0x00000000       0x8f _build/SEGGER_RTT_printf.o
- .debug_str     0x00000000     0x2637 _build/SEGGER_RTT_printf.o
+ .debug_line    0x00000000       0x98 _build/SEGGER_RTT_printf.o
+ .debug_str     0x00000000     0x2640 _build/SEGGER_RTT_printf.o
  .comment       0x00000000       0x71 _build/SEGGER_RTT_printf.o
  .ARM.attributes
                 0x00000000       0x39 _build/SEGGER_RTT_printf.o
@@ -2546,39 +2546,39 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_macro   0x00016808       0x76 _build/nrf_esb.o
  .debug_macro   0x0001687e       0x16 _build/nrf_esb.o
 
-.debug_line     0x00000000     0x678b
- .debug_line    0x00000000      0x5e7 _build/system_nrf52.o
- .debug_line    0x000005e7      0xd70 _build/main.o
- .debug_line    0x00001357      0xa07 _build/app_uart_fifo.o
- .debug_line    0x00001d5e      0x505 _build/nrf_delay.o
- .debug_line    0x00002263      0x7a0 _build/nrf_drv_common.o
- .debug_line    0x00002a03     0x10c7 _build/nrf_drv_uart.o
- .debug_line    0x00003aca      0xb39 _build/nrf_drv_timer.o
- .debug_line    0x00004603      0x61a _build/app_error.o
- .debug_line    0x00004c1d      0x609 _build/app_error_weak.o
- .debug_line    0x00005226      0x72f _build/app_fifo.o
- .debug_line    0x00005955      0xe36 _build/nrf_esb.o
+.debug_line     0x00000000     0x6a88
+ .debug_line    0x00000000      0x60b _build/system_nrf52.o
+ .debug_line    0x0000060b      0xdf7 _build/main.o
+ .debug_line    0x00001402      0xa6a _build/app_uart_fifo.o
+ .debug_line    0x00001e6c      0x529 _build/nrf_delay.o
+ .debug_line    0x00002395      0x7e8 _build/nrf_drv_common.o
+ .debug_line    0x00002b7d     0x1121 _build/nrf_drv_uart.o
+ .debug_line    0x00003c9e      0xb93 _build/nrf_drv_timer.o
+ .debug_line    0x00004831      0x647 _build/app_error.o
+ .debug_line    0x00004e78      0x636 _build/app_error_weak.o
+ .debug_line    0x000054ae      0x765 _build/app_fifo.o
+ .debug_line    0x00005c13      0xe75 _build/nrf_esb.o
 
-.debug_str      0x00000000    0x76e66
- .debug_str     0x00000000    0x6bc72 _build/system_nrf52.o
-                              0x6c6d6 (size before relaxing)
- .debug_str     0x0006bc72     0x7bfe _build/main.o
-                              0x74180 (size before relaxing)
- .debug_str     0x00073870      0x7a4 _build/app_uart_fifo.o
-                              0x72276 (size before relaxing)
- .debug_str     0x00074014       0xa4 _build/nrf_delay.o
-                              0x6f34e (size before relaxing)
- .debug_str     0x000740b8      0x2f1 _build/nrf_drv_common.o
-                              0x7168b (size before relaxing)
- .debug_str     0x000743a9     0x138e _build/nrf_drv_uart.o
-                              0x7302e (size before relaxing)
- .debug_str     0x00075737      0x6e0 _build/nrf_drv_timer.o
-                              0x7260b (size before relaxing)
- .debug_str     0x00075e17      0x12f _build/app_error.o
-                              0x70af5 (size before relaxing)
- .debug_str     0x00075f46       0x8a _build/app_error_weak.o
-                              0x70a87 (size before relaxing)
- .debug_str     0x00075fd0      0x14d _build/app_fifo.o
-                              0x6fc99 (size before relaxing)
- .debug_str     0x0007611d      0xd49 _build/nrf_esb.o
-                              0x71c62 (size before relaxing)
+.debug_str      0x00000000    0x76ed2
+ .debug_str     0x00000000    0x6bc7b _build/system_nrf52.o
+                              0x6c6df (size before relaxing)
+ .debug_str     0x0006bc7b     0x7c10 _build/main.o
+                              0x74192 (size before relaxing)
+ .debug_str     0x0007388b      0x7ad _build/app_uart_fifo.o
+                              0x72288 (size before relaxing)
+ .debug_str     0x00074038       0xad _build/nrf_delay.o
+                              0x6f360 (size before relaxing)
+ .debug_str     0x000740e5      0x2fa _build/nrf_drv_common.o
+                              0x7169d (size before relaxing)
+ .debug_str     0x000743df     0x1397 _build/nrf_drv_uart.o
+                              0x73040 (size before relaxing)
+ .debug_str     0x00075776      0x6e9 _build/nrf_drv_timer.o
+                              0x7261d (size before relaxing)
+ .debug_str     0x00075e5f      0x138 _build/app_error.o
+                              0x70b07 (size before relaxing)
+ .debug_str     0x00075f97       0x93 _build/app_error_weak.o
+                              0x70a99 (size before relaxing)
+ .debug_str     0x0007602a      0x156 _build/app_fifo.o
+                              0x6fca2 (size before relaxing)
+ .debug_str     0x00076180      0xd52 _build/nrf_esb.o
+                              0x71c74 (size before relaxing)

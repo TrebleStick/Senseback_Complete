@@ -1432,8 +1432,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x67 _build/nrf_assert.o
  .debug_macro   0x00000000       0xbb _build/nrf_assert.o
  .debug_macro   0x00000000       0x2b _build/nrf_assert.o
- .debug_line    0x00000000      0x5ac _build/nrf_assert.o
- .debug_str     0x00000000    0x70a94 _build/nrf_assert.o
+ .debug_line    0x00000000      0x5d9 _build/nrf_assert.o
+ .debug_str     0x00000000    0x70aa6 _build/nrf_assert.o
  .comment       0x00000000       0x71 _build/nrf_assert.o
  .ARM.attributes
                 0x00000000       0x39 _build/nrf_assert.o
@@ -1545,8 +1545,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x1a _build/RTT_Syscalls_GCC.o
  .debug_macro   0x00000000      0x8fe _build/RTT_Syscalls_GCC.o
  .debug_macro   0x00000000       0xe8 _build/RTT_Syscalls_GCC.o
- .debug_line    0x00000000       0xf8 _build/RTT_Syscalls_GCC.o
- .debug_str     0x00000000     0x2b61 _build/RTT_Syscalls_GCC.o
+ .debug_line    0x00000000      0x10a _build/RTT_Syscalls_GCC.o
+ .debug_str     0x00000000     0x2b6a _build/RTT_Syscalls_GCC.o
  .comment       0x00000000       0x71 _build/RTT_Syscalls_GCC.o
  .debug_frame   0x00000000       0x2c _build/RTT_Syscalls_GCC.o
  .ARM.attributes
@@ -1652,8 +1652,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x41 _build/app_timer_appsh.o
  .debug_macro   0x00000000       0x10 _build/app_timer_appsh.o
  .debug_macro   0x00000000       0x1c _build/app_timer_appsh.o
- .debug_line    0x00000000      0x6c1 _build/app_timer_appsh.o
- .debug_str     0x00000000    0x71125 _build/app_timer_appsh.o
+ .debug_line    0x00000000      0x700 _build/app_timer_appsh.o
+ .debug_str     0x00000000    0x71137 _build/app_timer_appsh.o
  .comment       0x00000000       0x71 _build/app_timer_appsh.o
  .debug_frame   0x00000000       0x48 _build/app_timer_appsh.o
  .ARM.attributes
@@ -2429,8 +2429,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 _build/dfu_dual_bank.o
  .debug_macro   0x00000000       0x22 _build/dfu_dual_bank.o
  .debug_macro   0x00000000       0x37 _build/dfu_dual_bank.o
- .debug_line    0x00000000      0xff6 _build/dfu_dual_bank.o
- .debug_str     0x00000000    0x73dbc _build/dfu_dual_bank.o
+ .debug_line    0x00000000     0x1050 _build/dfu_dual_bank.o
+ .debug_str     0x00000000    0x73dce _build/dfu_dual_bank.o
  .comment       0x00000000       0x71 _build/dfu_dual_bank.o
  .debug_frame   0x00000000      0x5fc _build/dfu_dual_bank.o
  .ARM.attributes
@@ -2624,8 +2624,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 _build/dfu_init_template.o
  .debug_macro   0x00000000       0x67 _build/dfu_init_template.o
  .debug_macro   0x00000000       0xa6 _build/dfu_init_template.o
- .debug_line    0x00000000      0xa82 _build/dfu_init_template.o
- .debug_str     0x00000000    0x710fc _build/dfu_init_template.o
+ .debug_line    0x00000000      0xaca _build/dfu_init_template.o
+ .debug_str     0x00000000    0x71105 _build/dfu_init_template.o
  .comment       0x00000000       0x71 _build/dfu_init_template.o
  .debug_frame   0x00000000      0x350 _build/dfu_init_template.o
  .ARM.attributes
@@ -2715,8 +2715,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xbe _build/hci_mem_pool.o
  .debug_macro   0x00000000       0x16 _build/hci_mem_pool.o
  .debug_macro   0x00000000      0x197 _build/hci_mem_pool.o
- .debug_line    0x00000000      0x4cb _build/hci_mem_pool.o
- .debug_str     0x00000000     0x6abb _build/hci_mem_pool.o
+ .debug_line    0x00000000      0x4e6 _build/hci_mem_pool.o
+ .debug_str     0x00000000     0x6acd _build/hci_mem_pool.o
  .comment       0x00000000       0x71 _build/hci_mem_pool.o
  .debug_frame   0x00000000       0xb8 _build/hci_mem_pool.o
  .ARM.attributes
@@ -3471,8 +3471,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 _build/softdevice_handler_appsh.o
  .debug_macro   0x00000000       0x1c _build/softdevice_handler_appsh.o
  .debug_macro   0x00000000       0x16 _build/softdevice_handler_appsh.o
- .debug_line    0x00000000      0xadd _build/softdevice_handler_appsh.o
- .debug_str     0x00000000    0x75844 _build/softdevice_handler_appsh.o
+ .debug_line    0x00000000      0xb1c _build/softdevice_handler_appsh.o
+ .debug_str     0x00000000    0x75856 _build/softdevice_handler_appsh.o
  .comment       0x00000000       0x71 _build/softdevice_handler_appsh.o
  .debug_frame   0x00000000      0x324 _build/softdevice_handler_appsh.o
  .ARM.attributes
@@ -3702,8 +3702,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x64 _build/app_scheduler.o
  .debug_macro   0x00000000       0x2e _build/app_scheduler.o
  .debug_macro   0x00000000       0x60 _build/app_scheduler.o
- .debug_line    0x00000000      0xaa7 _build/app_scheduler.o
- .debug_str     0x00000000    0x72563 _build/app_scheduler.o
+ .debug_line    0x00000000      0xadd _build/app_scheduler.o
+ .debug_str     0x00000000    0x72575 _build/app_scheduler.o
  .comment       0x00000000       0x71 _build/app_scheduler.o
  .debug_frame   0x00000000      0x384 _build/app_scheduler.o
  .ARM.attributes
@@ -3911,8 +3911,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xbb _build/app_util_platform.o
  .debug_macro   0x00000000       0x2b _build/app_util_platform.o
  .debug_macro   0x00000000       0x60 _build/app_util_platform.o
- .debug_line    0x00000000      0x9b7 _build/app_util_platform.o
- .debug_str     0x00000000    0x724a8 _build/app_util_platform.o
+ .debug_line    0x00000000      0x9e4 _build/app_util_platform.o
+ .debug_str     0x00000000    0x724ba _build/app_util_platform.o
  .comment       0x00000000       0x71 _build/app_util_platform.o
  .debug_frame   0x00000000      0x368 _build/app_util_platform.o
  .ARM.attributes
@@ -4963,60 +4963,60 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_macro   0x00017cf0      0x377 _build/softdevice_handler.o
  .debug_macro   0x00018067       0x10 _build/softdevice_handler.o
 
-.debug_line     0x00000000     0xb35c
- .debug_line    0x00000000      0x55d _build/system_nrf52.o
- .debug_line    0x0000055d     0x1782 _build/main.o
- .debug_line    0x00001cdf      0x5d3 _build/flashwriting.o
- .debug_line    0x000022b2      0x4ed _build/nrf_delay.o
- .debug_line    0x0000279f      0xac5 _build/nrf_drv_common.o
- .debug_line    0x00003264      0xf41 _build/nrf_drv_spi.o
- .debug_line    0x000041a5     0x11f2 _build/nrf_drv_gpiote.o
- .debug_line    0x00005397      0xe0a _build/nrf_esb.o
- .debug_line    0x000061a1      0x5fb _build/app_error.o
- .debug_line    0x0000679c      0x5ea _build/app_error_weak.o
- .debug_line    0x00006d86      0x43f _build/SEGGER_RTT.o
- .debug_line    0x000071c5      0x43b _build/SEGGER_RTT_printf.o
- .debug_line    0x00007600      0xf19 _build/bootloader.o
- .debug_line    0x00008519      0x94b _build/bootloader_settings.o
- .debug_line    0x00008e64      0x31e _build/bootloader_util.o
- .debug_line    0x00009182      0x321 _build/crc16.o
- .debug_line    0x000094a3     0x11fc _build/pstorage.o
- .debug_line    0x0000a69f      0xcbd _build/softdevice_handler.o
+.debug_line     0x00000000     0xb79d
+ .debug_line    0x00000000      0x578 _build/system_nrf52.o
+ .debug_line    0x00000578     0x185a _build/main.o
+ .debug_line    0x00001dd2      0x609 _build/flashwriting.o
+ .debug_line    0x000023db      0x511 _build/nrf_delay.o
+ .debug_line    0x000028ec      0xb0d _build/nrf_drv_common.o
+ .debug_line    0x000033f9      0xf9b _build/nrf_drv_spi.o
+ .debug_line    0x00004394     0x124c _build/nrf_drv_gpiote.o
+ .debug_line    0x000055e0      0xe49 _build/nrf_esb.o
+ .debug_line    0x00006429      0x628 _build/app_error.o
+ .debug_line    0x00006a51      0x617 _build/app_error_weak.o
+ .debug_line    0x00007068      0x448 _build/SEGGER_RTT.o
+ .debug_line    0x000074b0      0x444 _build/SEGGER_RTT_printf.o
+ .debug_line    0x000078f4      0xf85 _build/bootloader.o
+ .debug_line    0x00008879      0x98a _build/bootloader_settings.o
+ .debug_line    0x00009203      0x327 _build/bootloader_util.o
+ .debug_line    0x0000952a      0x32a _build/crc16.o
+ .debug_line    0x00009854     0x1244 _build/pstorage.o
+ .debug_line    0x0000aa98      0xd05 _build/softdevice_handler.o
 
-.debug_str      0x00000000    0x7eff1
- .debug_str     0x00000000    0x6bc9e _build/system_nrf52.o
-                              0x6c702 (size before relaxing)
- .debug_str     0x0006bc9e     0xe822 _build/main.o
-                              0x7b099 (size before relaxing)
- .debug_str     0x0007a4c0       0xeb _build/flashwriting.o
-                              0x6cd1c (size before relaxing)
- .debug_str     0x0007a5ab       0x84 _build/nrf_delay.o
-                              0x6f38f (size before relaxing)
- .debug_str     0x0007a62f      0x128 _build/nrf_drv_common.o
-                              0x7298e (size before relaxing)
- .debug_str     0x0007a757      0xc57 _build/nrf_drv_spi.o
-                              0x73fa0 (size before relaxing)
- .debug_str     0x0007b3ae      0xd2a _build/nrf_drv_gpiote.o
-                              0x73f84 (size before relaxing)
- .debug_str     0x0007c0d8      0xda5 _build/nrf_esb.o
-                              0x71d00 (size before relaxing)
- .debug_str     0x0007ce7d      0x134 _build/app_error.o
-                              0x70b93 (size before relaxing)
- .debug_str     0x0007cfb1       0x84 _build/app_error_weak.o
-                              0x70b25 (size before relaxing)
- .debug_str     0x0007d035      0x376 _build/SEGGER_RTT.o
-                               0x5556 (size before relaxing)
- .debug_str     0x0007d3ab      0x1c9 _build/SEGGER_RTT_printf.o
-                               0x571f (size before relaxing)
- .debug_str     0x0007d574      0x43c _build/bootloader.o
-                              0x7382b (size before relaxing)
- .debug_str     0x0007d9b0      0x110 _build/bootloader_settings.o
-                              0x6eb6e (size before relaxing)
- .debug_str     0x0007dac0       0xa7 _build/bootloader_util.o
-                               0x584c (size before relaxing)
- .debug_str     0x0007db67       0x72 _build/crc16.o
-                               0x58bb (size before relaxing)
- .debug_str     0x0007dbd9     0x1014 _build/pstorage.o
-                              0x73248 (size before relaxing)
- .debug_str     0x0007ebed      0x404 _build/softdevice_handler.o
-                              0x76782 (size before relaxing)
+.debug_str      0x00000000    0x7f09c
+ .debug_str     0x00000000    0x6bca7 _build/system_nrf52.o
+                              0x6c70b (size before relaxing)
+ .debug_str     0x0006bca7     0xe834 _build/main.o
+                              0x7b0ab (size before relaxing)
+ .debug_str     0x0007a4db       0xf4 _build/flashwriting.o
+                              0x6cd25 (size before relaxing)
+ .debug_str     0x0007a5cf       0x8d _build/nrf_delay.o
+                              0x6f3a1 (size before relaxing)
+ .debug_str     0x0007a65c      0x131 _build/nrf_drv_common.o
+                              0x729a0 (size before relaxing)
+ .debug_str     0x0007a78d      0xc60 _build/nrf_drv_spi.o
+                              0x73fb2 (size before relaxing)
+ .debug_str     0x0007b3ed      0xd33 _build/nrf_drv_gpiote.o
+                              0x73f96 (size before relaxing)
+ .debug_str     0x0007c120      0xdae _build/nrf_esb.o
+                              0x71d12 (size before relaxing)
+ .debug_str     0x0007cece      0x13d _build/app_error.o
+                              0x70ba5 (size before relaxing)
+ .debug_str     0x0007d00b       0x8d _build/app_error_weak.o
+                              0x70b37 (size before relaxing)
+ .debug_str     0x0007d098      0x37f _build/SEGGER_RTT.o
+                               0x555f (size before relaxing)
+ .debug_str     0x0007d417      0x1d2 _build/SEGGER_RTT_printf.o
+                               0x5731 (size before relaxing)
+ .debug_str     0x0007d5e9      0x445 _build/bootloader.o
+                              0x7383d (size before relaxing)
+ .debug_str     0x0007da2e      0x119 _build/bootloader_settings.o
+                              0x6eb77 (size before relaxing)
+ .debug_str     0x0007db47       0xb0 _build/bootloader_util.o
+                               0x5855 (size before relaxing)
+ .debug_str     0x0007dbf7       0x7b _build/crc16.o
+                               0x58c4 (size before relaxing)
+ .debug_str     0x0007dc72     0x101d _build/pstorage.o
+                              0x7325a (size before relaxing)
+ .debug_str     0x0007ec8f      0x40d _build/softdevice_handler.o
+                              0x76794 (size before relaxing)

@@ -41,7 +41,8 @@
 #elif defined(BOARD_CUSTOM)
   #include "custom_board.h"
 #else
-#error "Board is not defined"
+  #include "pca10040.h"   //TODO temp fix
+// #error "Board is not defined"
 
 #endif
 
