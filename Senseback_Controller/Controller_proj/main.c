@@ -35,7 +35,7 @@ nrf_esb_payload_t rx_payload;
 nrf_esb_payload_t tx_payload;
 nrf_esb_payload_t dummy_payload = NRF_ESB_CREATE_PAYLOAD(0, 0x61);
 nrf_esb_payload_t reset_payload = NRF_ESB_CREATE_PAYLOAD(0, 0x12, 0x35, 0x37);
-nrf_esb_payload_t bootloader_payload = NRF_ESB_CREATE_PAYLOAD(0, 0xFB, 0x55, 0xAA, 0, 0x00, 0x00, 0x00, 0, 0x00, 0x00, 0x00);
+// nrf_esb_payload_t bootloader_payload = NRF_ESB_CREATE_PAYLOAD(0, 0xFB, 0x55, 0xAA, 0, 0x00, 0x00, 0x00, 0, 0x00, 0x00, 0x00);
 // static char fail_string[17] = "Transfer Failed\r\n";
 // static char success_string[21] = "Transfer Successful: ";
 // static char received_string[19] = "Received Payload: ";
@@ -391,6 +391,7 @@ int main(void)
 								break;
 							}
 							case 0x85: { //Command: start feeding data for a new packet
+                // app_uart_put(0x85);
 								uart_state = 1;
 								break;
 							}
@@ -410,7 +411,7 @@ int main(void)
                 break;
               }
               case 0x42: { //start bootloader
-                // Send B and 3 figure file size e.g 3KB -> 003, 240KB -> 240, 20KB -> 020 etc
+                // Send B and 6 figure file size in bytes
                 app_uart_get(&rx_msg);
                 bootloader_payload.data[5] = rx_msg & 0xF;
                 app_uart_get(&rx_msg);
@@ -446,8 +447,9 @@ int main(void)
 						if (payload_w_ptr == tx_payload.length) { //end of packet reached, send and return uart to default state
 							uart_state = 0;
 							nrf_drv_timer_clear(&TIMER_TX);
-							nrf_esb_write_payload(&tx_payload);
+							errcode = nrf_esb_write_payload(&tx_payload);
 							app_uart_put((uint8_t)payload_w_ptr);
+              app_uart_put((uint8_t) errcode);
 							payload_w_ptr = 0;
 							tx_payload.length = 0;
 							tx_payload.pid++;

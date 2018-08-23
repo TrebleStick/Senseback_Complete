@@ -929,7 +929,7 @@ uint32_t nrf_esb_write_payload(nrf_esb_payload_t const * p_payload)
 {
     VERIFY_TRUE(m_esb_initialized, NRF_ERROR_INVALID_STATE);
     VERIFY_PARAM_NOT_NULL(p_payload);
-    VERIFY_PAYLOAD_LENGTH(p_payload);
+    VERIFY_PAYLOAD_LENGTH(p_payload); 
     VERIFY_FALSE(m_tx_fifo.count >= NRF_ESB_TX_FIFO_SIZE, NRF_ERROR_NO_MEM);
 
     if (m_config_local.mode == NRF_ESB_MODE_PTX &&

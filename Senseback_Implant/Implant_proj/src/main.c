@@ -59,7 +59,8 @@
 
 //include FPGA image
 // INCBIN(FPGAimg, "FPGAimage.bin"); //TODO uncoment before final version
-#define APPLICATION_SIZE 0x000111B4 //45KB app witout FPGA image or FPGA code
+// #define APPLICATION_SIZE 0x000111B4 //45KB app witout FPGA image or FPGA code
+#define APPLICATION_SIZE 0x0024000 //45KB app witout FPGA image or FPGA code
 const bootloader_settings_t * boot_settings;
 
 
@@ -454,6 +455,7 @@ int main(void)
 				}
 				//nrf_esb_flush_tx();
 				if (rx_payload.length%2 == 0) { //If payload contains even number of bytes then it is a data packet
+          debug_pack(0xEBEBEBEB);
           switch (boot_state) {
             case 1 :
               for (i=0;i<rx_payload.length;i++) {
@@ -549,27 +551,29 @@ int main(void)
                 case 0 : //initiate boot
                   //tell the controller which state you are in
                   debug_pack(0xBBBB0000);
-
-
-                  if(NRF_FICR->CODEPAGESIZE != CODE_PAGE_SIZE){ debug_pack(0xC0DE515E); }
-
-                  debug_pack(bootloader_init()); //returns invalid perameters beause of registering memory past the storage point of pstorage, but this is fine.
-
-                  debug_pack(BOOTLOADER_SETTINGS_ADDRESS);
-                  debug_pack(* (uint32_t *) BOOTLOADER_SETTINGS_ADDRESS);
-                  bootloader_util_settings_get(&boot_settings);
-
-                  //set the current app to be valid and the new app to be NULL (not present)
-                  flash_word_write((uint32_t *) boot_settings, 0x00000001);
-                  bootloader_util_settings_get(&boot_settings);
-
-                  //validate current application with CRC check
-                  if(bootloader_app_is_valid(0x00000000)){
-                    debug_pack(0xF000D505);
-                  }
-                  else{ debug_pack(0xF000D404); }
-
-                  boot_state = 1; //TODO remove after testing
+                  debug_pack(0xF00DEEEE);
+                  // debug_pack(NRF_ESB_MAX_PAYLOAD_LENGTH);
+                  //
+                  //
+                  // if(NRF_FICR->CODEPAGESIZE != CODE_PAGE_SIZE){ debug_pack(0xC0DE515E); }
+                  //
+                  // debug_pack(bootloader_init()); //returns invalid perameters beause of registering memory past the storage point of pstorage, but this is fine.
+                  //
+                  // debug_pack(BOOTLOADER_SETTINGS_ADDRESS);
+                  // debug_pack(* (uint32_t *) BOOTLOADER_SETTINGS_ADDRESS);
+                  // bootloader_util_settings_get(&boot_settings);
+                  //
+                  // //set the current app to be valid and the new app to be NULL (not present)
+                  // flash_word_write((uint32_t *) boot_settings, 0x00000001);
+                  // bootloader_util_settings_get(&boot_settings);
+                  //
+                  // //validate current application with CRC check
+                  // if(bootloader_app_is_valid(0x00000000)){
+                  //   debug_pack(0xF000D505);
+                  // }
+                  // else{ debug_pack(0xF000D404); }
+                  //
+                  // boot_state = 1; //TODO remove after testing
                   break;
 
                 case 1 : //check size contstraints
@@ -588,6 +592,8 @@ int main(void)
                   }
 
                   else{
+                    new_app_start = 0x40000; //set to hard value to set this in hte linker script of the new application
+
                     //set the write address of the new app for the flashwriting library
                     start_addr = (uint32_t *) new_app_start;
                     debug_pack(new_app_start);
@@ -624,6 +630,10 @@ int main(void)
 
                   //boot
                   nrf_delay_ms(1000); //dely so controller can receive new state before boot
+                  //forward vector table to correct address
+                  debug_pack( sd_softdevice_vector_table_base_set(new_app_start + 4) );
+
+                  nrf_delay_ms(1000);
 
                   bootloader_util_app_start( new_app_start + 4);
 
@@ -690,11 +700,13 @@ int main(void)
 								validation_payload.data[3] = 0x01;
 								validation_payload.data[0] = packetid;
 								nrf_esb_write_payload(&validation_payload);
+                debug_pack(0xF00DF00D);
 								tx_fifo_size++;
 								packetid++;
 								debug_flag = 1;
 							}
 							else {
+                debug_pack(0xF00DF00D);
 								validation_payload.data[3] = 0x00;
 								validation_payload.data[0] = packetid;
 								nrf_esb_write_payload(&validation_payload);
@@ -704,7 +716,7 @@ int main(void)
 							validation_payload.data[3] = 0x00;
 						}
 						else {
-
+              debug_pack(0xFEEEEEED);
 						}
 					}
 				}
