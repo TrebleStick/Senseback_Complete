@@ -8,5 +8,6 @@ end
 REG_READ_CMD = uint8(48);
 invoke(handles.hrealterm, 'putchar', bitor(REG_READ_CMD, uint8(register)) );
 invoke(handles.hrealterm, 'putchar', uint8(req_id));
-end
+disp(req_id);
 
+end

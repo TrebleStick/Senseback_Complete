@@ -18,16 +18,16 @@ end
 handles.hrealterm=actxserver('realterm.realtermintf');
 handles.hrealterm.baud=1000000; %3.75 Mbaud speed for the UART-SPI interface
 handles.hrealterm.flowcontrol=0; %no handshaking currently
-handles.hrealterm.Port='20'; %Make sure the COM port number (here 0) is the correct one for the USB UART device here; I can change it if needed, it depends on the computer.
+handles.hrealterm.Port='3'; %Make sure the COM port number (here 0) is the correct one for the USB UART device here; I can change it if needed, it depends on the computer.
 handles.hrealterm.PortOpen=1; %open the comm port
 
 
 is_open=(handles.hrealterm.PortOpen~=0); %check that serial COM port is open
 if (is_open == 0) % if some error occurs while trying to open serial port
     errordlg('Unable to open serial port. Make sure serial port device is connected properly and registered in control panel. Ensure no other program is using the port.',...
-        'Error','modal')    
+        'Error','modal')
     uicontrol(hObject)
-    invoke(handles.hrealterm,'close'); 
+    invoke(handles.hrealterm,'close');
     delete(handles.hrealterm);
     return
 end
@@ -42,7 +42,7 @@ if (isfield(handles,'hrealterm'))
         return
     end
     is_open=(handles.hrealterm.PortOpen~=0); %check that serial COM port is open
-        if (is_open == 0) 
+        if (is_open == 0)
             errordlg('No connection to device. Toggle connect button.',...
                 'Error','modal')
             uicontrol(hObject)
@@ -54,9 +54,3 @@ else
         uicontrol(hObject)
         return
 end
-
-
-
-
-
-
