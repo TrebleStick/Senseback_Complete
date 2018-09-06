@@ -1,0 +1,105 @@
+response to request id: 2, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 8, data value: 2
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 89
+recorded data channel: 22, data is 634
+response to request id: 7, data value: 0
+response to request id: 0, data value: 0
+recorded data channel: 31, data is 1022
+ack signal
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 161
+response to request id: 2, data value: 186
+recorded data channel: 23, data is 768
+spike header, channel: 13, timestamp: 10
+spike header, channel: 0, timestamp: 7
+response to request id: 0, data value: 0
+response to request id: 0, data value: 1
+response to request id: 0, data value: 99
+recorded data channel: 18, data is 698
+recorded data channel: 23, data is 768
+recorded data channel: 6, data is 770
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 107
+recorded data channel: 22, data is 634
+response to request id: 7, data value: 0
+response to request id: 0, data value: 0
+response to request id: 2, data value: 0
+ack signal
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 149
+response to request id: 2, data value: 186
+recorded data channel: 23, data is 768
+spike header, channel: 29, timestamp: 10
+spike header, channel: 0, timestamp: 7
+response to request id: 0, data value: 0
+response to request id: 0, data value: 3
+response to request id: 0, data value: 99
+recorded data channel: 18, data is 698
+recorded data channel: 23, data is 768
+recorded data channel: 3, data is 770
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 119
+recorded data channel: 22, data is 634
+response to request id: 7, data value: 0
+response to request id: 0, data value: 0
+response to request id: 4, data value: 0
+ack signal
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 137
+response to request id: 2, data value: 186
+recorded data channel: 23, data is 768
+spike header, channel: 29, timestamp: 10
+spike header, channel: 0, timestamp: 7
+response to request id: 0, data value: 0
+response to request id: 0, data value: 5
+response to request id: 0, data value: 99
+recorded data channel: 18, data is 698
+recorded data channel: 23, data is 768
+recorded data channel: 0, data is 770
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 131
+recorded data channel: 22, data is 634
+response to request id: 7, data value: 0
+response to request id: 0, data value: 0
+response to request id: 6, data value: 0
+ack signal
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 125
+response to request id: 2, data value: 186
+recorded data channel: 23, data is 768
+recorded data channel: 2, data is 474
+spike header, channel: 0, timestamp: 7
+response to request id: 0, data value: 0
+response to request id: 0, data value: 7
+response to request id: 0, data value: 99
+recorded data channel: 18, data is 698
+recorded data channel: 23, data is 768
+spike header, channel: 16, timestamp: 2
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 143
+recorded data channel: 22, data is 634
+response to request id: 7, data value: 0
+response to request id: 0, data value: 0
+response to request id: 8, data value: 0
+ack signal
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 113
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 149
+recorded data channel: 22, data is 634
+response to request id: 7, data value: 0
+response to request id: 0, data value: 0
+response to request id: 9, data value: 0
+ack signal
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 107
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 154
+recorded data channel: 22, data is 634
+response to request id: 1, data value: 0
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 102
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 255
