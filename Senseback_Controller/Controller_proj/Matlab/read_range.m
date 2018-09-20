@@ -1,21 +1,30 @@
-function parse_reg(handles, filename)
+function read_range(handles, filename, reg_start, reg_end)
+
+max_reg=10;
+
+
+if ((reg_end > max_reg) || (reg_start > max_reg))
+  disp('registers chosen are out of range, 1 - %d', max_reg);
+  reg_start = 1;
+  reg_end = max_reg;
+end
+
 startSaving_implant(handles, filename);
 
 disp('Reading Registers.');
 %read all reg commands twice to account for delay in return Data
-read_all(handles);
-read_all(handles);
+read_range_cmd(handles, reg_start, reg_end);
+read_range_cmd(handles, reg_start, reg_end);
 
 stopSaving_implant(handles);
 
 %create empty array to store register data
-max_reg=10;
 registers = zeros(max_reg,1);
 
 if exist(filename, 'file')
   readfile = fopen(filename,'r'); %open capture file for read
-  frewind(readfile);
-  fsize = dir(filename);
+  frewind(readfile);              %point to the start of the file
+  fsize = dir(filename);          %define size of file for loop
   disp('File found & opened.');
 else
   disp('Capture file %s not found.', filename);
@@ -43,7 +52,6 @@ else
           throw = fread(readfile,2,'uint8');
           if (reg > max_reg)
             %not a register value do nothing
-
           else
             %valid register value
             registers(reg) = data;
@@ -55,6 +63,6 @@ else
   fclose(readfile);
 end
 
-for i=1:max_reg
+for i=reg_start:reg_end
   fprintf('Reg %d : %d \n', i, registers(i));
 end

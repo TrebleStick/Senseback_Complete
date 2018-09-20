@@ -1,105 +1,3803 @@
-response to request id: 2, data value: 186
-recorded data channel: 23, data is 768
-response to request id: 8, data value: 2
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 89
-recorded data channel: 22, data is 634
-response to request id: 7, data value: 0
-response to request id: 0, data value: 0
-recorded data channel: 31, data is 1022
-ack signal
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 161
-response to request id: 2, data value: 186
-recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 768
+response to request id: 0, data value: 99
+recorded data channel: 18, data is 611
+recorded data channel: 18, data is 611
+recorded data channel: 18, data is 611
+recorded data channel: 18, data is 611
+recorded data channel: 18, data is 611
+recorded data channel: 18, data is 611
+recorded data channel: 18, data is 730
+spike header, channel: 1, timestamp: 1
+emonitor value: 138
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 29, timestamp: 10
+spike header, channel: 1, timestamp: 1
+emonitor value: 394
+spike header, channel: 24, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 29, timestamp: 10
+spike header, channel: 1, timestamp: 1
+emonitor value: 650
+spike header, channel: 8, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 24, timestamp: 10
 spike header, channel: 13, timestamp: 10
-spike header, channel: 0, timestamp: 7
-response to request id: 0, data value: 0
-response to request id: 0, data value: 1
-response to request id: 0, data value: 99
-recorded data channel: 18, data is 698
+spike header, channel: 1, timestamp: 1
+emonitor value: 906
+spike header, channel: 24, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 13, timestamp: 10
+spike header, channel: 1, timestamp: 1
+emonitor value: 138
+spike header, channel: 24, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 24, timestamp: 10
+spike header, channel: 8, timestamp: 10
+spike header, channel: 11, timestamp: 10
 recorded data channel: 23, data is 768
-recorded data channel: 6, data is 770
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 107
-recorded data channel: 22, data is 634
-response to request id: 7, data value: 0
-response to request id: 0, data value: 0
-response to request id: 2, data value: 0
-ack signal
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 149
+response to request id: 22, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 907
+recorded data channel: 4, data is 907
+recorded data channel: 7, data is 907
+recorded data channel: 13, data is 907
+recorded data channel: 18, data is 907
+recorded data channel: 20, data is 907
+recorded data channel: 23, data is 651
+recorded data channel: 23, data is 651
+recorded data channel: 20, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 22, data value: 139
+spike sample value: 907
+emonitor value: 907
+emonitor value: 907
+emonitor value: 395
+emonitor value: 907
+spike sample value: 395
+spike header, channel: 24, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 9, data value: 139
+recorded data channel: 9, data is 651
+recorded data channel: 7, data is 907
+recorded data channel: 5, data is 139
+recorded data channel: 1, data is 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 139
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 31, data is 139
+response to request id: 25, data value: 139
+emonitor value: 907
+emonitor value: 395
+spike sample value: 907
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+recorded data channel: 0, data is 139
+recorded data channel: 1, data is 954
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 15, data is 139
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 139
+emonitor value: 907
+emonitor value: 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 11, data is 906
+recorded data channel: 6, data is 906
+recorded data channel: 6, data is 906
+recorded data channel: 7, data is 906
+recorded data channel: 11, data is 906
+recorded data channel: 16, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 30, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 8, data is 651
+spike sample value: 907
+emonitor value: 907
+emonitor value: 395
+response to request id: 25, data value: 139
+response to request id: 1, data value: 138
+recorded data channel: 26, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 18, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 5, data is 394
+recorded data channel: 28, data is 907
+response to request id: 6, data value: 139
+response to request id: 22, data value: 139
+emonitor value: 907
+emonitor value: 907
+emonitor value: 395
+emonitor value: 139
+emonitor value: 698
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 20, data is 907
+spike sample value: 651
+spike header, channel: 24, timestamp: 11
+spike sample value: 907
+spike sample value: 139
+emonitor value: 907
+emonitor value: 651
+response to request id: 31, data value: 139
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 17, data is 650
+recorded data channel: 16, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 28, data is 395
+response to request id: 7, data value: 139
+response to request id: 23, data value: 139
+emonitor value: 907
+emonitor value: 698
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 14, data is 395
+emonitor value: 651
+response to request id: 25, data value: 139
+response to request id: 6, data value: 138
+recorded data channel: 27, data is 906
+recorded data channel: 23, data is 394
+recorded data channel: 19, data is 906
+recorded data channel: 16, data is 906
+recorded data channel: 15, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 11, data is 139
+response to request id: 15, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 139
+emonitor value: 907
+spike sample value: 651
+spike sample value: 395
+spike sample value: 907
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 7, data is 906
+recorded data channel: 15, data is 906
+recorded data channel: 14, data is 394
+recorded data channel: 13, data is 906
+recorded data channel: 15, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 28, data is 907
+response to request id: 5, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 4, data is 651
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 651
+response to request id: 31, data value: 139
+response to request id: 21, data value: 139
+response to request id: 6, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 1, data is 394
+recorded data channel: 27, data is 907
+response to request id: 3, data value: 139
+response to request id: 23, data value: 139
+emonitor value: 907
+emonitor value: 395
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 907
+emonitor value: 907
+emonitor value: 907
+response to request id: 24, data value: 139
+response to request id: 5, data value: 138
+recorded data channel: 29, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 10
+recorded data channel: 22, data is 906
+recorded data channel: 26, data is 907
+response to request id: 0, data value: 139
+response to request id: 15, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 395
+emonitor value: 139
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+response to request id: 6, data value: 138
+recorded data channel: 28, data is 650
+recorded data channel: 23, data is 394
+recorded data channel: 19, data is 906
+recorded data channel: 17, data is 394
+recorded data channel: 17, data is 906
+recorded data channel: 17, data is 906
+recorded data channel: 21, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike sample value: 395
+emonitor value: 651
+spike sample value: 907
+spike sample value: 395
+spike sample value: 395
+spike sample value: 907
+emonitor value: 651
+emonitor value: 651
+response to request id: 28, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 138
+recorded data channel: 23, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 28, data is 907
+response to request id: 2, data value: 139
+response to request id: 19, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 395
+spike sample value: 698
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 907
+emonitor value: 907
+emonitor value: 651
+response to request id: 30, data value: 139
+response to request id: 7, data value: 138
+recorded data channel: 28, data is 394
+recorded data channel: 23, data is 394
+recorded data channel: 18, data is 906
+recorded data channel: 15, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 30, data value: 139
+response to request id: 15, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 395
+emonitor value: 907
+spike sample value: 907
+spike sample value: 907
+spike sample value: 907
+spike sample value: 698
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 17, data value: 139
+spike sample value: 651
+emonitor value: 139
+response to request id: 31, data value: 139
+response to request id: 14, data value: 138
+recorded data channel: 30, data is 394
+recorded data channel: 25, data is 394
+recorded data channel: 21, data is 394
+recorded data channel: 19, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 4, data value: 139
+response to request id: 19, data value: 139
+emonitor value: 907
+emonitor value: 395
+spike sample value: 139
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 29, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 17, data is 906
+recorded data channel: 18, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 24, data is 394
+recorded data channel: 27, data is 907
+response to request id: 0, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 23, data is 651
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 651
+emonitor value: 651
+emonitor value: 907
+response to request id: 15, data value: 139
+response to request id: 0, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 20, data is 394
+recorded data channel: 27, data is 907
+response to request id: 0, data value: 139
+response to request id: 15, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 907
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 17, data is 139
+response to request id: 13, data value: 138
+recorded data channel: 29, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 19, data is 394
+recorded data channel: 14, data is 906
+recorded data channel: 11, data is 906
+recorded data channel: 11, data is 906
+recorded data channel: 13, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 13, data is 907
+emonitor value: 651
+spike sample value: 907
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+spike sample value: 395
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 10, data is 651
+response to request id: 31, data value: 139
+response to request id: 15, data value: 138
+recorded data channel: 30, data is 138
+recorded data channel: 24, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 17, data is 906
+recorded data channel: 15, data is 906
+recorded data channel: 17, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 7, data is 395
+emonitor value: 395
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 186
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 395
+response to request id: 31, data value: 139
+response to request id: 14, data value: 138
+recorded data channel: 29, data is 906
+recorded data channel: 25, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 10
+recorded data channel: 30, data is 395
+response to request id: 11, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 395
+emonitor value: 907
+spike sample value: 651
+spike header, channel: 24, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 10
+recorded data channel: 25, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 15, data is 906
+recorded data channel: 15, data is 906
+recorded data channel: 15, data is 906
+recorded data channel: 17, data is 906
+recorded data channel: 19, data is 650
+recorded data channel: 24, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 907
+emonitor value: 907
+response to request id: 19, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike sample value: 907
+response to request id: 7, data value: 138
+recorded data channel: 28, data is 394
+recorded data channel: 23, data is 394
+recorded data channel: 21, data is 650
+recorded data channel: 21, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 29, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 651
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+emonitor value: 907
+emonitor value: 651
+response to request id: 27, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 394
+recorded data channel: 21, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 29, data is 395
+response to request id: 7, data value: 139
+response to request id: 23, data value: 139
+emonitor value: 907
+emonitor value: 395
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 28, data value: 139
+emonitor value: 395
+response to request id: 31, data value: 139
+response to request id: 15, data value: 138
+recorded data channel: 30, data is 650
+recorded data channel: 25, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 15, data value: 139
+emonitor value: 651
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 907
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 2, data value: 138
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 394
+recorded data channel: 19, data is 906
+recorded data channel: 22, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 30, data is 395
+response to request id: 7, data value: 139
+response to request id: 27, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 29, data is 395
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 907
+emonitor value: 139
+response to request id: 27, data value: 139
+response to request id: 7, data value: 138
+recorded data channel: 28, data is 394
+recorded data channel: 23, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 26, data is 139
+response to request id: 11, data value: 139
+response to request id: 27, data value: 139
+emonitor value: 139
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 22, data is 907
+response to request id: 28, data value: 139
+response to request id: 7, data value: 138
+recorded data channel: 29, data is 650
+recorded data channel: 27, data is 394
+recorded data channel: 25, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 27, data is 906
+recorded data channel: 30, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 19, data is 651
+response to request id: 22, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 651
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 16, data is 395
+response to request id: 13, data value: 138
+recorded data channel: 29, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 21, data is 394
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 22, data is 906
+recorded data channel: 25, data is 954
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 0, data is 395
+response to request id: 19, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 907
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 10
+recorded data channel: 28, data is 650
+recorded data channel: 25, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 26, data is 906
+recorded data channel: 29, data is 907
+response to request id: 3, data value: 139
+response to request id: 19, data value: 139
+emonitor value: 698
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 11
+emonitor value: 907
+emonitor value: 651
+spike sample value: 907
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 10
+recorded data channel: 26, data is 906
+recorded data channel: 23, data is 394
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 25, data is 394
+recorded data channel: 29, data is 907
+response to request id: 7, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 394
+recorded data channel: 22, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 26, data is 906
+recorded data channel: 30, data is 395
+response to request id: 7, data value: 139
+response to request id: 27, data value: 139
+emonitor value: 907
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 22, data is 138
+recorded data channel: 24, data is 394
+recorded data channel: 21, data is 906
+recorded data channel: 19, data is 394
+recorded data channel: 19, data is 394
+recorded data channel: 19, data is 906
+recorded data channel: 22, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 30, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 18, data is 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 139
+emonitor value: 651
+response to request id: 31, data value: 139
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 15, data is 651
+response to request id: 7, data value: 139
+response to request id: 27, data value: 139
+emonitor value: 395
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+recorded data channel: 1, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 12, data is 395
+response to request id: 27, data value: 139
+response to request id: 6, data value: 138
+recorded data channel: 27, data is 906
+recorded data channel: 22, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 394
+recorded data channel: 19, data is 906
+recorded data channel: 22, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 9, data is 139
+spike sample value: 395
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 5, data is 907
+emonitor value: 139
+response to request id: 27, data value: 139
+response to request id: 6, data value: 138
+recorded data channel: 29, data is 394
+recorded data channel: 25, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 24, data is 954
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 139
+response to request id: 30, data value: 139
+response to request id: 9, data value: 138
+recorded data channel: 30, data is 394
+recorded data channel: 26, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 907
+emonitor value: 907
+emonitor value: 651
+response to request id: 31, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 22, data value: 138
+recorded data channel: 28, data is 907
+response to request id: 1, data value: 139
+response to request id: 15, data value: 139
+response to request id: 28, data value: 139
+emonitor value: 907
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 9, data value: 139
+spike sample value: 395
+emonitor value: 139
+response to request id: 31, data value: 139
+response to request id: 15, data value: 139
+response to request id: 1, data value: 138
+recorded data channel: 29, data is 650
+recorded data channel: 27, data is 906
+recorded data channel: 27, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 31, data is 139
+emonitor value: 907
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 27, data is 906
+recorded data channel: 17, data is 906
+recorded data channel: 15, data is 906
+recorded data channel: 15, data is 906
+recorded data channel: 17, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 28, data is 907
+response to request id: 7, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 24, data is 651
+recorded data channel: 0, data is 139
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+emonitor value: 907
+emonitor value: 139
+response to request id: 23, data value: 139
 response to request id: 2, data value: 186
 recorded data channel: 23, data is 768
-spike header, channel: 29, timestamp: 10
-spike header, channel: 0, timestamp: 7
-response to request id: 0, data value: 0
-response to request id: 0, data value: 3
-response to request id: 0, data value: 99
-recorded data channel: 18, data is 698
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 21, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 28, data is 907
+response to request id: 10, data value: 139
+response to request id: 30, data value: 139
+emonitor value: 651
+emonitor value: 907
+spike sample value: 907
+spike sample value: 954
 recorded data channel: 23, data is 768
-recorded data channel: 3, data is 770
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 18, data is 139
+response to request id: 6, data value: 138
+recorded data channel: 28, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 22, data is 394
+recorded data channel: 21, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 25, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 14, data is 907
+response to request id: 11, data value: 139
+response to request id: 29, data value: 139
+emonitor value: 395
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 11, data is 651
+emonitor value: 907
+response to request id: 24, data value: 139
+response to request id: 7, data value: 138
+recorded data channel: 30, data is 650
+recorded data channel: 29, data is 650
+recorded data channel: 29, data is 907
+response to request id: 2, data value: 139
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 8, data is 395
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+emonitor value: 907
+emonitor value: 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 5, data is 138
+recorded data channel: 24, data is 906
+recorded data channel: 27, data is 650
+recorded data channel: 30, data is 907
+response to request id: 11, data value: 139
+response to request id: 28, data value: 139
+emonitor value: 907
+emonitor value: 907
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 11
+emonitor value: 139
+emonitor value: 139
+response to request id: 27, data value: 139
+response to request id: 5, data value: 138
+recorded data channel: 27, data is 906
+recorded data channel: 23, data is 394
+recorded data channel: 18, data is 906
+recorded data channel: 15, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+emonitor value: 395
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+recorded data channel: 0, data is 651
+recorded data channel: 1, data is 139
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 10
+recorded data channel: 27, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 23, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 29, data is 395
+response to request id: 3, data value: 139
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+recorded data channel: 0, data is 139
+recorded data channel: 1, data is 139
+recorded data channel: 0, data is 651
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike sample value: 906
+recorded data channel: 24, data is 394
+recorded data channel: 21, data is 906
+recorded data channel: 22, data is 394
+recorded data channel: 22, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 27, data is 906
+recorded data channel: 31, data is 139
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 651
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 139
+emonitor value: 907
+response to request id: 20, data value: 139
+response to request id: 3, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 5, data value: 139
+spike header, channel: 24, timestamp: 11
+emonitor value: 907
+emonitor value: 139
+response to request id: 30, data value: 139
+response to request id: 7, data value: 138
+recorded data channel: 29, data is 394
+recorded data channel: 24, data is 906
+recorded data channel: 21, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 30, data is 139
+emonitor value: 395
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 26, data is 907
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 907
+response to request id: 31, data value: 139
+response to request id: 12, data value: 138
+recorded data channel: 30, data is 650
+recorded data channel: 27, data is 138
+recorded data channel: 24, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 23, data is 651
+response to request id: 23, data value: 139
+emonitor value: 907
+emonitor value: 907
+spike sample value: 139
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 10, data is 906
+recorded data channel: 26, data is 906
+recorded data channel: 30, data is 395
+response to request id: 11, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 395
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 7, data is 651
+emonitor value: 395
+response to request id: 31, data value: 139
+response to request id: 15, data value: 139
+response to request id: 1, data value: 138
+recorded data channel: 28, data is 394
+recorded data channel: 25, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 26, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 4, data is 395
+spike sample value: 395
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 1, data is 138
+recorded data channel: 19, data is 650
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 30, data is 395
+response to request id: 15, data value: 139
+response to request id: 31, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 11
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 10
+recorded data channel: 22, data is 906
+recorded data channel: 22, data is 650
+recorded data channel: 23, data is 906
+recorded data channel: 27, data is 394
+recorded data channel: 29, data is 907
+response to request id: 11, data value: 139
+response to request id: 28, data value: 139
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 11
+spike sample value: 651
+emonitor value: 907
+emonitor value: 139
+response to request id: 28, data value: 139
+response to request id: 7, data value: 138
+recorded data channel: 28, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 19, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 2, data value: 139
+emonitor value: 651
+response to request id: 29, data value: 139
+response to request id: 9, data value: 138
+recorded data channel: 30, data is 394
+recorded data channel: 24, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 29, data is 395
+emonitor value: 395
+spike sample value: 395
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 26, data is 138
+recorded data channel: 23, data is 906
+recorded data channel: 23, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 29, data is 395
+response to request id: 6, data value: 139
+response to request id: 24, data value: 139
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 22, data is 907
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 651
+emonitor value: 907
+emonitor value: 907
+response to request id: 24, data value: 139
+response to request id: 3, data value: 138
+recorded data channel: 29, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 19, data is 651
+response to request id: 7, data value: 139
+response to request id: 29, data value: 139
+emonitor value: 907
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 10, data is 138
+recorded data channel: 27, data is 907
+response to request id: 3, data value: 139
+response to request id: 21, data value: 139
+emonitor value: 907
+emonitor value: 907
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 6, data is 907
+emonitor value: 907
+response to request id: 24, data value: 139
+response to request id: 7, data value: 138
+recorded data channel: 31, data is 394
+recorded data channel: 29, data is 394
+recorded data channel: 29, data is 650
+recorded data channel: 30, data is 395
+response to request id: 7, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 3, data is 651
+spike sample value: 395
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 651
+emonitor value: 139
+emonitor value: 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 0, data is 394
+recorded data channel: 29, data is 395
+response to request id: 3, data value: 139
+response to request id: 15, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 651
+emonitor value: 395
+spike sample value: 651
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 138
+recorded data channel: 24, data is 906
+recorded data channel: 22, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 22, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 27, data is 394
+recorded data channel: 30, data is 907
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 25, data is 651
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+emonitor value: 907
+emonitor value: 139
+response to request id: 26, data value: 139
+response to request id: 12, data value: 139
+response to request id: 3, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 22, data is 395
+response to request id: 22, data value: 139
+emonitor value: 651
+emonitor value: 907
+spike sample value: 651
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 19, data is 139
+spike header, channel: 24, timestamp: 11
+spike sample value: 907
+emonitor value: 139
+response to request id: 31, data value: 139
+response to request id: 12, data value: 138
+recorded data channel: 30, data is 138
+recorded data channel: 25, data is 906
+recorded data channel: 23, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 15, data is 907
+emonitor value: 907
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+recorded data channel: 0, data is 139
+recorded data channel: 0, data is 139
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 12, data is 650
+recorded data channel: 30, data is 906
+recorded data channel: 26, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 28, data is 906
+recorded data channel: 31, data is 395
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 9, data is 395
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 651
+response to request id: 31, data value: 139
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 6, data is 138
+recorded data channel: 28, data is 395
+response to request id: 1, data value: 139
+response to request id: 15, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 907
+spike sample value: 651
+spike header, channel: 24, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 2, data is 907
+emonitor value: 651
+response to request id: 25, data value: 139
+response to request id: 5, data value: 138
+recorded data channel: 27, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 21, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 10
+recorded data channel: 27, data is 394
+recorded data channel: 27, data is 394
+recorded data channel: 28, data is 906
+recorded data channel: 31, data is 395
+response to request id: 12, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 907
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+spike sample value: 395
+response to request id: 31, data value: 139
+emonitor value: 395
+spike sample value: 395
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 139
+response to request id: 15, data value: 139
+response to request id: 3, data value: 138
+recorded data channel: 29, data is 906
+recorded data channel: 28, data is 394
+recorded data channel: 28, data is 906
+recorded data channel: 30, data is 907
+response to request id: 5, data value: 139
+response to request id: 21, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 139
+response to request id: 31, data value: 139
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 650
+recorded data channel: 27, data is 650
+recorded data channel: 30, data is 907
+response to request id: 13, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 395
+emonitor value: 907
+spike sample value: 651
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 30, data is 651
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 27, data is 394
+recorded data channel: 23, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 25, data is 394
+recorded data channel: 27, data is 394
+recorded data channel: 30, data is 907
+response to request id: 13, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 24, data is 139
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 651
+emonitor value: 139
+emonitor value: 907
+response to request id: 24, data value: 139
+response to request id: 6, data value: 138
+recorded data channel: 29, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 20, data is 907
+response to request id: 30, data value: 139
+emonitor value: 907
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 17, data is 651
+response to request id: 15, data value: 138
+recorded data channel: 31, data is 394
+recorded data channel: 27, data is 394
+recorded data channel: 24, data is 906
+recorded data channel: 24, data is 394
+recorded data channel: 24, data is 906
+recorded data channel: 27, data is 394
+recorded data channel: 30, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 14, data is 395
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 651
+emonitor value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 11, data is 138
+recorded data channel: 15, data is 906
+recorded data channel: 17, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 28, data is 651
+response to request id: 7, data value: 139
+response to request id: 27, data value: 139
+emonitor value: 395
+emonitor value: 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 7, data is 907
+emonitor value: 907
+emonitor value: 395
+response to request id: 24, data value: 139
+response to request id: 6, data value: 138
+recorded data channel: 28, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 23, data is 394
+recorded data channel: 23, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 4, data is 650
+recorded data channel: 25, data is 906
+recorded data channel: 27, data is 907
+response to request id: 3, data value: 139
+response to request id: 21, data value: 139
+emonitor value: 395
+emonitor value: 907
+spike sample value: 907
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 1, data is 395
+emonitor value: 907
+emonitor value: 651
+response to request id: 31, data value: 139
+response to request id: 14, data value: 138
+recorded data channel: 31, data is 138
+recorded data channel: 28, data is 906
+recorded data channel: 26, data is 906
+recorded data channel: 27, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+emonitor value: 907
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 11, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 10
+recorded data channel: 24, data is 394
+recorded data channel: 22, data is 394
+recorded data channel: 21, data is 906
+recorded data channel: 23, data is 906
+recorded data channel: 27, data is 651
+response to request id: 1, data value: 139
+response to request id: 15, data value: 139
+response to request id: 31, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+emonitor value: 907
+emonitor value: 907
+response to request id: 27, data value: 139
+response to request id: 7, data value: 138
+recorded data channel: 29, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike sample value: 139
+response to request id: 7, data value: 138
+recorded data channel: 29, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 23, data is 394
+recorded data channel: 19, data is 906
+recorded data channel: 19, data is 906
+recorded data channel: 22, data is 394
+recorded data channel: 25, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 23, data is 139
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+emonitor value: 907
+emonitor value: 139
+response to request id: 30, data value: 139
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 19, data is 907
+response to request id: 12, data value: 139
+response to request id: 31, data value: 139
+emonitor value: 907
+emonitor value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+response to request id: 31, data value: 139
+emonitor value: 395
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 10
+recorded data channel: 28, data is 394
+recorded data channel: 24, data is 906
+recorded data channel: 22, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 21, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 29, data is 907
+response to request id: 7, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 907
+emonitor value: 651
+emonitor value: 139
+response to request id: 26, data value: 139
+response to request id: 7, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 18, data is 907
+response to request id: 28, data value: 139
+response to request id: 10, data value: 138
+recorded data channel: 30, data is 906
+recorded data channel: 29, data is 906
+recorded data channel: 29, data is 394
+recorded data channel: 30, data is 907
+response to request id: 5, data value: 139
+response to request id: 21, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 15, data is 651
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike sample value: 651
+emonitor value: 651
+emonitor value: 395
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 12, data is 394
+recorded data channel: 29, data is 907
+response to request id: 6, data value: 139
+response to request id: 21, data value: 139
+emonitor value: 907
+emonitor value: 139
+spike sample value: 651
+spike header, channel: 8, timestamp: 11
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 9, data is 139
+emonitor value: 651
+response to request id: 31, data value: 139
+response to request id: 15, data value: 139
+response to request id: 2, data value: 138
+recorded data channel: 28, data is 394
+recorded data channel: 25, data is 906
+recorded data channel: 24, data is 906
+recorded data channel: 24, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 5, data is 907
+spike sample value: 907
+spike header, channel: 24, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 24, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike header, channel: 8, timestamp: 11
+spike sample value: 698
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 2, data is 650
+recorded data channel: 26, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 25, data is 906
+recorded data channel: 29, data is 907
+response to request id: 7, data value: 139
+response to request id: 27, data value: 139
+emonitor value: 907
+emonitor value: 442
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 14
 recorded data channel: 14, data is 735
-response to request id: 0, data value: 119
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
 recorded data channel: 22, data is 634
-response to request id: 7, data value: 0
-response to request id: 0, data value: 0
-response to request id: 4, data value: 0
-ack signal
+response to request id: 17, data value: 73
+recorded data channel: 2, data is 770
+recorded data channel: 2, data is 751
+recorded data channel: 2, data is 735
+recorded data channel: 2, data is 727
+recorded data channel: 2, data is 727
+recorded data channel: 2, data is 731
+recorded data channel: 2, data is 743
+recorded data channel: 2, data is 759
 recorded data channel: 14, data is 735
-response to request id: 0, data value: 137
-response to request id: 2, data value: 186
-recorded data channel: 23, data is 768
-spike header, channel: 29, timestamp: 10
-spike header, channel: 0, timestamp: 7
-response to request id: 0, data value: 0
-response to request id: 0, data value: 5
-response to request id: 0, data value: 99
-recorded data channel: 18, data is 698
-recorded data channel: 23, data is 768
-recorded data channel: 0, data is 770
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 60
+recorded data channel: 2, data is 876
+recorded data channel: 2, data is 880
+recorded data channel: 2, data is 876
+recorded data channel: 2, data is 870
+recorded data channel: 2, data is 857
+recorded data channel: 2, data is 845
+recorded data channel: 2, data is 825
+recorded data channel: 2, data is 807
 recorded data channel: 14, data is 735
+response to request id: 0, data value: 13
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 34
+recorded data channel: 2, data is 828
+recorded data channel: 2, data is 809
+recorded data channel: 2, data is 787
+recorded data channel: 2, data is 766
+recorded data channel: 2, data is 745
+recorded data channel: 2, data is 733
+recorded data channel: 2, data is 719
+recorded data channel: 2, data is 717
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 21
+recorded data channel: 2, data is 847
+recorded data channel: 2, data is 869
+recorded data channel: 2, data is 887
+recorded data channel: 2, data is 899
+recorded data channel: 2, data is 903
+recorded data channel: 2, data is 903
+recorded data channel: 2, data is 898
+recorded data channel: 2, data is 885
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 97
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 181
+recorded data channel: 2, data is 823
+recorded data channel: 2, data is 842
+recorded data channel: 2, data is 858
+recorded data channel: 2, data is 877
+recorded data channel: 2, data is 883
+recorded data channel: 2, data is 883
+recorded data channel: 2, data is 877
+recorded data channel: 2, data is 874
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 167
+recorded data channel: 2, data is 679
+recorded data channel: 1, data is 944
+recorded data channel: 2, data is 703
+recorded data channel: 1, data is 974
+recorded data channel: 2, data is 725
+recorded data channel: 1, data is 993
+recorded data channel: 2, data is 739
+recorded data channel: 1, data is 1003
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 154
+recorded data channel: 2, data is 775
+recorded data channel: 1, data is 1023
+recorded data channel: 2, data is 779
+recorded data channel: 1, data is 1022
+recorded data channel: 2, data is 773
+recorded data channel: 1, data is 1006
+recorded data channel: 2, data is 762
+recorded data channel: 1, data is 988
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 141
+recorded data channel: 2, data is 743
+recorded data channel: 1, data is 938
+recorded data channel: 2, data is 731
+recorded data channel: 1, data is 911
+recorded data channel: 2, data is 711
+recorded data channel: 1, data is 886
+recorded data channel: 2, data is 687
+recorded data channel: 1, data is 859
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 88
+recorded data channel: 2, data is 859
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 869
+recorded data channel: 1, data is 819
+recorded data channel: 2, data is 886
+recorded data channel: 1, data is 843
+recorded data channel: 2, data is 906
+recorded data channel: 1, data is 867
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 75
+recorded data channel: 2, data is 921
+recorded data channel: 1, data is 879
+recorded data channel: 2, data is 945
+recorded data channel: 1, data is 903
+recorded data channel: 2, data is 966
+recorded data channel: 1, data is 935
+recorded data channel: 2, data is 989
+recorded data channel: 1, data is 953
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 62
+recorded data channel: 2, data is 1019
+recorded data channel: 1, data is 981
+recorded data channel: 2, data is 1023
+recorded data channel: 1, data is 979
+recorded data channel: 2, data is 1023
+recorded data channel: 1, data is 973
+recorded data channel: 2, data is 1023
+recorded data channel: 1, data is 957
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 49
+recorded data channel: 2, data is 1023
+recorded data channel: 1, data is 947
+recorded data channel: 2, data is 1006
+recorded data channel: 1, data is 920
+recorded data channel: 2, data is 982
+recorded data channel: 1, data is 890
+recorded data channel: 2, data is 956
+recorded data channel: 1, data is 863
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 36
+recorded data channel: 2, data is 962
+recorded data channel: 1, data is 874
+recorded data channel: 2, data is 942
+recorded data channel: 1, data is 847
+recorded data channel: 2, data is 920
+recorded data channel: 1, data is 831
+recorded data channel: 2, data is 900
+recorded data channel: 1, data is 807
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 23
+recorded data channel: 2, data is 874
+recorded data channel: 1, data is 783
+recorded data channel: 2, data is 858
+recorded data channel: 1, data is 767
+recorded data channel: 2, data is 851
+recorded data channel: 1, data is 763
+recorded data channel: 2, data is 842
+recorded data channel: 1, data is 761
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 10
+recorded data channel: 2, data is 854
+recorded data channel: 1, data is 783
+recorded data channel: 2, data is 865
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 878
+recorded data channel: 1, data is 823
+recorded data channel: 2, data is 893
+recorded data channel: 1, data is 847
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 253
+recorded data channel: 2, data is 915
+recorded data channel: 1, data is 871
+recorded data channel: 2, data is 933
+recorded data channel: 1, data is 903
+recorded data channel: 2, data is 958
+recorded data channel: 1, data is 923
+recorded data channel: 2, data is 974
+recorded data channel: 1, data is 935
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 240
+recorded data channel: 2, data is 995
+recorded data channel: 1, data is 960
+recorded data channel: 2, data is 1002
+recorded data channel: 1, data is 958
+recorded data channel: 2, data is 1001
+recorded data channel: 1, data is 944
+recorded data channel: 2, data is 992
+recorded data channel: 1, data is 925
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 227
+recorded data channel: 2, data is 988
+recorded data channel: 1, data is 945
+recorded data channel: 2, data is 988
+recorded data channel: 1, data is 932
+recorded data channel: 2, data is 979
+recorded data channel: 1, data is 917
+recorded data channel: 2, data is 964
+recorded data channel: 1, data is 896
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 214
+recorded data channel: 2, data is 938
+recorded data channel: 1, data is 862
+recorded data channel: 2, data is 911
+recorded data channel: 1, data is 831
+recorded data channel: 2, data is 889
+recorded data channel: 1, data is 815
+recorded data channel: 2, data is 870
+recorded data channel: 1, data is 791
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 201
+recorded data channel: 2, data is 850
+recorded data channel: 1, data is 767
+recorded data channel: 2, data is 837
+recorded data channel: 1, data is 767
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 757
+recorded data channel: 2, data is 824
+recorded data channel: 1, data is 759
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 188
+recorded data channel: 2, data is 819
+recorded data channel: 1, data is 759
+recorded data channel: 2, data is 829
+recorded data channel: 1, data is 775
+recorded data channel: 2, data is 842
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 859
+recorded data channel: 1, data is 823
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 13
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 137
+recorded data channel: 2, data is 827
+recorded data channel: 1, data is 759
+recorded data channel: 2, data is 812
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 735
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 735
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 124
+recorded data channel: 2, data is 847
+recorded data channel: 1, data is 783
+recorded data channel: 2, data is 858
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 870
+recorded data channel: 1, data is 819
+recorded data channel: 2, data is 884
+recorded data channel: 1, data is 839
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 111
+recorded data channel: 2, data is 879
+recorded data channel: 1, data is 847
+recorded data channel: 2, data is 901
+recorded data channel: 1, data is 879
+recorded data channel: 2, data is 923
+recorded data channel: 1, data is 899
+recorded data channel: 2, data is 939
+recorded data channel: 1, data is 915
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 98
+recorded data channel: 2, data is 952
+recorded data channel: 1, data is 927
+recorded data channel: 2, data is 963
+recorded data channel: 1, data is 934
+recorded data channel: 2, data is 967
+recorded data channel: 1, data is 927
+recorded data channel: 2, data is 965
+recorded data channel: 1, data is 916
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 45
+recorded data channel: 2, data is 866
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 850
+recorded data channel: 1, data is 781
+recorded data channel: 2, data is 839
+recorded data channel: 1, data is 767
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 767
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 13
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 249
+recorded data channel: 2, data is 972
+recorded data channel: 1, data is 926
+recorded data channel: 2, data is 974
+recorded data channel: 1, data is 920
+recorded data channel: 2, data is 970
+recorded data channel: 1, data is 906
+recorded data channel: 2, data is 959
+recorded data channel: 1, data is 890
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 236
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 865
+recorded data channel: 2, data is 911
+recorded data channel: 1, data is 842
+recorded data channel: 2, data is 888
+recorded data channel: 1, data is 819
+recorded data channel: 2, data is 869
+recorded data channel: 1, data is 795
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 223
+recorded data channel: 2, data is 856
+recorded data channel: 1, data is 781
+recorded data channel: 2, data is 839
+recorded data channel: 1, data is 763
+recorded data channel: 2, data is 827
+recorded data channel: 1, data is 751
+recorded data channel: 2, data is 817
+recorded data channel: 1, data is 743
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 210
+recorded data channel: 2, data is 814
+recorded data channel: 1, data is 735
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 791
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 793
+recorded data channel: 1, data is 731
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 197
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 757
+recorded data channel: 2, data is 815
+recorded data channel: 1, data is 775
+recorded data channel: 2, data is 830
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 845
+recorded data channel: 1, data is 823
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 184
+recorded data channel: 2, data is 875
+recorded data channel: 1, data is 855
+recorded data channel: 2, data is 898
+recorded data channel: 1, data is 888
+recorded data channel: 2, data is 923
+recorded data channel: 1, data is 911
+recorded data channel: 2, data is 945
+recorded data channel: 1, data is 927
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 171
+recorded data channel: 2, data is 950
+recorded data channel: 1, data is 911
+recorded data channel: 2, data is 954
+recorded data channel: 1, data is 909
+recorded data channel: 2, data is 955
+recorded data channel: 1, data is 899
+recorded data channel: 2, data is 945
+recorded data channel: 1, data is 883
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 13
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 93
+recorded data channel: 2, data is 939
+recorded data channel: 1, data is 917
+recorded data channel: 2, data is 950
+recorded data channel: 1, data is 911
+recorded data channel: 2, data is 952
+recorded data channel: 1, data is 906
+recorded data channel: 2, data is 944
+recorded data channel: 1, data is 888
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 80
+recorded data channel: 2, data is 934
+recorded data channel: 1, data is 871
+recorded data channel: 2, data is 916
+recorded data channel: 1, data is 847
+recorded data channel: 2, data is 896
+recorded data channel: 1, data is 825
+recorded data channel: 2, data is 874
+recorded data channel: 1, data is 799
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 67
+recorded data channel: 2, data is 926
+recorded data channel: 1, data is 847
+recorded data channel: 2, data is 903
+recorded data channel: 1, data is 827
+recorded data channel: 2, data is 883
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 860
+recorded data channel: 1, data is 781
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 54
+recorded data channel: 2, data is 819
+recorded data channel: 1, data is 739
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 792
+recorded data channel: 1, data is 711
+recorded data channel: 2, data is 790
+recorded data channel: 1, data is 719
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 41
+recorded data channel: 2, data is 826
+recorded data channel: 1, data is 755
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 767
+recorded data channel: 2, data is 847
+recorded data channel: 1, data is 797
+recorded data channel: 2, data is 865
+recorded data channel: 1, data is 817
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 28
+recorded data channel: 2, data is 877
+recorded data channel: 1, data is 843
+recorded data channel: 2, data is 899
+recorded data channel: 1, data is 869
+recorded data channel: 2, data is 923
+recorded data channel: 1, data is 888
+recorded data channel: 2, data is 939
+recorded data channel: 1, data is 903
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 15
+recorded data channel: 2, data is 951
+recorded data channel: 1, data is 911
+recorded data channel: 2, data is 961
+recorded data channel: 1, data is 911
+recorded data channel: 2, data is 963
+recorded data channel: 1, data is 906
+recorded data channel: 2, data is 956
+recorded data channel: 1, data is 891
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 2
+recorded data channel: 2, data is 944
+recorded data channel: 1, data is 900
+recorded data channel: 2, data is 941
+recorded data channel: 1, data is 890
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 874
+recorded data channel: 2, data is 920
+recorded data channel: 1, data is 854
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 245
+recorded data channel: 2, data is 927
+recorded data channel: 1, data is 862
+recorded data channel: 2, data is 911
+recorded data channel: 1, data is 842
+recorded data channel: 2, data is 896
+recorded data channel: 1, data is 821
+recorded data channel: 2, data is 871
+recorded data channel: 1, data is 799
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 232
+recorded data channel: 2, data is 813
+recorded data channel: 1, data is 731
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 717
+recorded data channel: 2, data is 787
+recorded data channel: 1, data is 703
+recorded data channel: 2, data is 782
+recorded data channel: 1, data is 703
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 219
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 731
+recorded data channel: 2, data is 807
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 822
+recorded data channel: 1, data is 767
+recorded data channel: 2, data is 839
+recorded data channel: 1, data is 795
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 206
+recorded data channel: 2, data is 879
+recorded data channel: 1, data is 831
+recorded data channel: 2, data is 897
+recorded data channel: 1, data is 855
+recorded data channel: 2, data is 915
+recorded data channel: 1, data is 879
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 903
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 193
+recorded data channel: 2, data is 967
+recorded data channel: 1, data is 941
+recorded data channel: 2, data is 984
+recorded data channel: 1, data is 950
+recorded data channel: 2, data is 992
+recorded data channel: 1, data is 947
+recorded data channel: 2, data is 993
+recorded data channel: 1, data is 935
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 180
+recorded data channel: 2, data is 955
+recorded data channel: 1, data is 911
+recorded data channel: 2, data is 954
+recorded data channel: 1, data is 906
+recorded data channel: 2, data is 951
+recorded data channel: 1, data is 890
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 870
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 167
+recorded data channel: 2, data is 944
+recorded data channel: 1, data is 871
+recorded data channel: 2, data is 917
+recorded data channel: 1, data is 845
+recorded data channel: 2, data is 891
+recorded data channel: 1, data is 817
+recorded data channel: 2, data is 865
+recorded data channel: 1, data is 791
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 154
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 755
+recorded data channel: 2, data is 822
+recorded data channel: 1, data is 735
+recorded data channel: 2, data is 807
+recorded data channel: 1, data is 731
+recorded data channel: 2, data is 805
+recorded data channel: 1, data is 733
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 141
+recorded data channel: 2, data is 779
+recorded data channel: 1, data is 711
+recorded data channel: 2, data is 787
+recorded data channel: 1, data is 731
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 751
+recorded data channel: 2, data is 819
+recorded data channel: 1, data is 783
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 128
+recorded data channel: 2, data is 845
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 861
+recorded data channel: 1, data is 831
+recorded data channel: 2, data is 883
+recorded data channel: 1, data is 859
+recorded data channel: 2, data is 903
+recorded data channel: 1, data is 877
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 115
+recorded data channel: 2, data is 877
+recorded data channel: 1, data is 844
+recorded data channel: 2, data is 899
+recorded data channel: 1, data is 865
+recorded data channel: 2, data is 918
+recorded data channel: 1, data is 882
+recorded data channel: 2, data is 927
+recorded data channel: 1, data is 891
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 102
+recorded data channel: 2, data is 961
+recorded data channel: 1, data is 927
+recorded data channel: 2, data is 967
+recorded data channel: 1, data is 926
+recorded data channel: 2, data is 967
+recorded data channel: 1, data is 915
+recorded data channel: 2, data is 958
+recorded data channel: 1, data is 898
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 13
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 63
+recorded data channel: 2, data is 805
+recorded data channel: 1, data is 731
+recorded data channel: 2, data is 807
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 819
+recorded data channel: 1, data is 759
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 783
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 50
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 775
+recorded data channel: 2, data is 843
+recorded data channel: 1, data is 795
+recorded data channel: 2, data is 859
+recorded data channel: 1, data is 817
+recorded data channel: 2, data is 876
+recorded data channel: 1, data is 831
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 37
+recorded data channel: 2, data is 869
+recorded data channel: 1, data is 845
+recorded data channel: 2, data is 889
+recorded data channel: 1, data is 867
+recorded data channel: 2, data is 911
+recorded data channel: 1, data is 885
+recorded data channel: 2, data is 925
+recorded data channel: 1, data is 896
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 24
+recorded data channel: 2, data is 927
+recorded data channel: 1, data is 886
+recorded data channel: 2, data is 934
+recorded data channel: 1, data is 887
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 876
+recorded data channel: 2, data is 927
+recorded data channel: 1, data is 858
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 11
+recorded data channel: 2, data is 927
+recorded data channel: 1, data is 853
+recorded data channel: 2, data is 910
+recorded data channel: 1, data is 829
+recorded data channel: 2, data is 888
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 866
+recorded data channel: 1, data is 783
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 254
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 818
+recorded data channel: 1, data is 731
+recorded data channel: 2, data is 806
+recorded data channel: 1, data is 717
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 715
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 241
+recorded data channel: 2, data is 783
+recorded data channel: 1, data is 715
+recorded data channel: 2, data is 793
+recorded data channel: 1, data is 727
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 816
+recorded data channel: 1, data is 767
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 228
+recorded data channel: 2, data is 807
+recorded data channel: 1, data is 741
+recorded data channel: 2, data is 818
+recorded data channel: 1, data is 759
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 781
+recorded data channel: 2, data is 847
+recorded data channel: 1, data is 799
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 215
+recorded data channel: 2, data is 860
+recorded data channel: 1, data is 828
+recorded data channel: 2, data is 880
+recorded data channel: 1, data is 847
+recorded data channel: 2, data is 899
+recorded data channel: 1, data is 869
+recorded data channel: 2, data is 917
+recorded data channel: 1, data is 884
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 202
+recorded data channel: 2, data is 945
+recorded data channel: 1, data is 899
+recorded data channel: 2, data is 950
+recorded data channel: 1, data is 897
+recorded data channel: 2, data is 951
+recorded data channel: 1, data is 886
+recorded data channel: 2, data is 941
+recorded data channel: 1, data is 871
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 189
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 863
+recorded data channel: 2, data is 917
+recorded data channel: 1, data is 839
+recorded data channel: 2, data is 896
+recorded data channel: 1, data is 815
+recorded data channel: 2, data is 874
+recorded data channel: 1, data is 793
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 176
+recorded data channel: 2, data is 853
+recorded data channel: 1, data is 767
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 749
+recorded data channel: 2, data is 822
+recorded data channel: 1, data is 731
+recorded data channel: 2, data is 810
+recorded data channel: 1, data is 719
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 163
+recorded data channel: 2, data is 838
+recorded data channel: 1, data is 751
+recorded data channel: 2, data is 818
+recorded data channel: 1, data is 731
+recorded data channel: 2, data is 805
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 719
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 150
+recorded data channel: 2, data is 790
+recorded data channel: 1, data is 727
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 751
+recorded data channel: 2, data is 817
+recorded data channel: 1, data is 775
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 799
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 137
+recorded data channel: 2, data is 863
+recorded data channel: 1, data is 829
+recorded data channel: 2, data is 883
+recorded data channel: 1, data is 853
+recorded data channel: 2, data is 903
+recorded data channel: 1, data is 877
+recorded data channel: 2, data is 924
+recorded data channel: 1, data is 896
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 124
+recorded data channel: 2, data is 999
+recorded data channel: 1, data is 975
+recorded data channel: 2, data is 1009
+recorded data channel: 1, data is 975
+recorded data channel: 2, data is 1011
+recorded data channel: 1, data is 967
+recorded data channel: 2, data is 1009
+recorded data channel: 1, data is 952
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 111
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 865
+recorded data channel: 2, data is 918
+recorded data channel: 1, data is 842
+recorded data channel: 2, data is 896
+recorded data channel: 1, data is 818
+recorded data channel: 2, data is 874
+recorded data channel: 1, data is 795
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 98
+recorded data channel: 2, data is 896
+recorded data channel: 1, data is 821
+recorded data channel: 2, data is 874
+recorded data channel: 1, data is 798
+recorded data channel: 2, data is 853
+recorded data channel: 1, data is 773
+recorded data channel: 2, data is 830
+recorded data channel: 1, data is 749
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 85
+recorded data channel: 2, data is 819
+recorded data channel: 1, data is 735
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 797
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 798
+recorded data channel: 1, data is 731
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 72
+recorded data channel: 2, data is 771
+recorded data channel: 1, data is 703
+recorded data channel: 2, data is 780
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 793
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 807
+recorded data channel: 1, data is 775
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 15
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 32
+recorded data channel: 2, data is 942
+recorded data channel: 1, data is 917
+recorded data channel: 2, data is 953
+recorded data channel: 1, data is 921
+recorded data channel: 2, data is 959
+recorded data channel: 1, data is 918
+recorded data channel: 2, data is 960
+recorded data channel: 1, data is 903
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 19
+recorded data channel: 2, data is 947
+recorded data channel: 1, data is 903
+recorded data channel: 2, data is 947
+recorded data channel: 1, data is 896
+recorded data channel: 2, data is 942
+recorded data channel: 1, data is 880
+recorded data channel: 2, data is 926
+recorded data channel: 1, data is 858
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 6
+recorded data channel: 2, data is 918
+recorded data channel: 1, data is 851
+recorded data channel: 2, data is 896
+recorded data channel: 1, data is 827
+recorded data channel: 2, data is 873
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 853
+recorded data channel: 1, data is 782
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 249
+recorded data channel: 2, data is 810
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 794
+recorded data channel: 1, data is 703
+recorded data channel: 2, data is 783
+recorded data channel: 1, data is 703
+recorded data channel: 2, data is 783
+recorded data channel: 1, data is 703
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 236
+recorded data channel: 2, data is 807
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 818
+recorded data channel: 1, data is 759
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 783
+recorded data channel: 2, data is 847
+recorded data channel: 1, data is 799
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 223
+recorded data channel: 2, data is 896
+recorded data channel: 1, data is 851
+recorded data channel: 2, data is 915
+recorded data channel: 1, data is 874
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 896
+recorded data channel: 2, data is 953
+recorded data channel: 1, data is 911
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 210
+recorded data channel: 2, data is 879
+recorded data channel: 1, data is 845
+recorded data channel: 2, data is 898
+recorded data channel: 1, data is 866
+recorded data channel: 2, data is 918
+recorded data channel: 1, data is 880
+recorded data channel: 2, data is 927
+recorded data channel: 1, data is 889
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 197
+recorded data channel: 2, data is 967
+recorded data channel: 1, data is 917
+recorded data channel: 2, data is 967
+recorded data channel: 1, data is 909
+recorded data channel: 2, data is 963
+recorded data channel: 1, data is 893
+recorded data channel: 2, data is 950
+recorded data channel: 1, data is 871
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 184
+recorded data channel: 2, data is 911
+recorded data channel: 1, data is 839
+recorded data channel: 2, data is 896
+recorded data channel: 1, data is 816
+recorded data channel: 2, data is 870
+recorded data channel: 1, data is 791
+recorded data channel: 2, data is 847
+recorded data channel: 1, data is 767
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 171
+recorded data channel: 2, data is 822
+recorded data channel: 1, data is 735
+recorded data channel: 2, data is 806
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 795
+recorded data channel: 1, data is 711
+recorded data channel: 2, data is 790
+recorded data channel: 1, data is 703
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 158
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 727
+recorded data channel: 2, data is 807
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 819
+recorded data channel: 1, data is 765
+recorded data channel: 2, data is 831
+recorded data channel: 1, data is 795
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 145
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 735
+recorded data channel: 2, data is 809
+recorded data channel: 1, data is 759
+recorded data channel: 2, data is 826
+recorded data channel: 1, data is 783
+recorded data channel: 2, data is 845
+recorded data channel: 1, data is 807
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 13
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 107
+recorded data channel: 2, data is 844
+recorded data channel: 1, data is 757
+recorded data channel: 2, data is 826
+recorded data channel: 1, data is 735
+recorded data channel: 2, data is 810
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 719
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 94
+recorded data channel: 2, data is 799
+recorded data channel: 1, data is 719
+recorded data channel: 2, data is 806
+recorded data channel: 1, data is 735
+recorded data channel: 2, data is 817
+recorded data channel: 1, data is 751
+recorded data channel: 2, data is 828
+recorded data channel: 1, data is 779
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 81
+recorded data channel: 2, data is 839
+recorded data channel: 1, data is 799
+recorded data channel: 2, data is 862
+recorded data channel: 1, data is 831
+recorded data channel: 2, data is 883
+recorded data channel: 1, data is 855
+recorded data channel: 2, data is 903
+recorded data channel: 1, data is 876
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 68
+recorded data channel: 2, data is 880
+recorded data channel: 1, data is 847
+recorded data channel: 2, data is 899
+recorded data channel: 1, data is 869
+recorded data channel: 2, data is 919
+recorded data channel: 1, data is 889
+recorded data channel: 2, data is 935
+recorded data channel: 1, data is 907
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 55
+recorded data channel: 2, data is 943
+recorded data channel: 1, data is 903
+recorded data channel: 2, data is 952
+recorded data channel: 1, data is 903
+recorded data channel: 2, data is 952
+recorded data channel: 1, data is 891
+recorded data channel: 2, data is 942
+recorded data channel: 1, data is 875
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 42
+recorded data channel: 2, data is 931
+recorded data channel: 1, data is 857
+recorded data channel: 2, data is 910
+recorded data channel: 1, data is 831
+recorded data channel: 2, data is 886
+recorded data channel: 1, data is 807
+recorded data channel: 2, data is 864
+recorded data channel: 1, data is 783
+recorded data channel: 14, data is 735
+response to request id: 0, data value: 14
+recorded data channel: 22, data is 634
+response to request id: 17, data value: 29
+recorded data channel: 2, data is 844
+recorded data channel: 1, data is 763
+recorded data channel: 2, data is 829
+recorded data channel: 1, data is 743
+recorded data channel: 2, data is 815
+recorded data channel: 1, data is 729
+recorded data channel: 2, data is 805
+recorded data channel: 1, data is 719
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 16, data value: 139
+emonitor value: 390
+recorded data channel: 23, data is 907
+emonitor value: 646
+recorded data channel: 27, data is 907
+emonitor value: 390
+recorded data channel: 31, data is 907
+emonitor value: 903
+response to request id: 23, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 3, data value: 139
+response to request id: 25, data value: 134
+recorded data channel: 23, data is 907
+response to request id: 31, data value: 134
+recorded data channel: 27, data is 907
+emonitor value: 135
+response to request id: 7, data value: 139
+emonitor value: 903
+response to request id: 31, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 29, data is 651
+spike header, channel: 24, timestamp: 7
+spike sample value: 907
+spike header, channel: 8, timestamp: 7
+spike header, channel: 24, timestamp: 11
+recorded data channel: 3, data is 903
+spike header, channel: 24, timestamp: 11
+recorded data channel: 8, data is 903
+recorded data channel: 1, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 26, data is 395
+recorded data channel: 12, data is 903
+recorded data channel: 3, data is 907
+recorded data channel: 14, data is 391
+recorded data channel: 2, data is 907
+recorded data channel: 14, data is 135
+recorded data channel: 0, data is 139
+recorded data channel: 11, data is 647
+spike header, channel: 27, timestamp: 10
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 23, data is 139
+recorded data channel: 7, data is 647
+spike header, channel: 24, timestamp: 11
+recorded data channel: 2, data is 903
+spike sample value: 907
+spike header, channel: 24, timestamp: 7
+emonitor value: 651
+spike header, channel: 8, timestamp: 7
+response to request id: 19, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 19, data is 907
+spike header, channel: 8, timestamp: 7
+response to request id: 7, data value: 139
+emonitor value: 902
+recorded data channel: 27, data is 907
+emonitor value: 390
+recorded data channel: 23, data is 907
+emonitor value: 646
+recorded data channel: 23, data is 442
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 16, data is 651
+emonitor value: 134
+recorded data channel: 19, data is 907
+response to request id: 22, data value: 134
+recorded data channel: 15, data is 907
+response to request id: 15, data value: 134
+recorded data channel: 15, data is 907
+response to request id: 14, data value: 134
+recorded data channel: 15, data is 954
+recorded data channel: 23, data is 768
+recorded data channel: 5, data is 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 907
+recorded data channel: 9, data is 135
+spike header, channel: 24, timestamp: 11
+recorded data channel: 3, data is 903
+emonitor value: 907
+spike header, channel: 8, timestamp: 7
+emonitor value: 907
+spike header, channel: 24, timestamp: 7
+response to request id: 27, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 16, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 131
+response to request id: 31, data value: 131
+response to request id: 31, data value: 131
+response to request id: 31, data value: 131
+response to request id: 31, data value: 131
+response to request id: 31, data value: 131
+response to request id: 31, data value: 131
+response to request id: 31, data value: 131
+response to request id: 31, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 18, data value: 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 16, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 3, data value: 131
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 29, data is 387
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 26, data is 130
+spike sample value: 642
+spike sample value: 642
+spike sample value: 642
+spike sample value: 386
+spike sample value: 642
+spike sample value: 642
+spike sample value: 642
+spike sample value: 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 22, data is 643
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 19, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 12, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 8, data is 898
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 5, data is 643
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 2, data is 386
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 2
+spike sample value: 642
+spike sample value: 642
+spike sample value: 898
+spike sample value: 386
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 3
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 2
+spike sample value: 898
+spike sample value: 898
+spike sample value: 642
+spike sample value: 898
+spike sample value: 642
+spike sample value: 898
+spike sample value: 898
+spike sample value: 698
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 3
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike sample value: 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 899
+spike header, channel: 24, timestamp: 3
+recorded data channel: 9, data is 899
+recorded data channel: 15, data is 131
+recorded data channel: 24, data is 387
+recorded data channel: 31, data is 131
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 642
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 386
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 20, data value: 131
+recorded data channel: 13, data is 899
+recorded data channel: 22, data is 387
+recorded data channel: 29, data is 643
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 7, data value: 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 30, data is 642
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 27, data is 387
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 24, data is 130
+recorded data channel: 0, data is 130
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 642
+spike sample value: 898
+spike sample value: 642
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 20, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 17, data is 642
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+spike sample value: 898
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 14, data is 387
+recorded data channel: 31, data is 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 643
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 4, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 1, data is 642
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 2
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 3
+recorded data channel: 9, data is 899
+spike header, channel: 8, timestamp: 3
+spike sample value: 899
+emonitor value: 899
+response to request id: 14, data value: 131
 response to request id: 0, data value: 131
-recorded data channel: 22, data is 634
-response to request id: 7, data value: 0
-response to request id: 0, data value: 0
-response to request id: 6, data value: 0
-ack signal
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 125
-response to request id: 2, data value: 186
+response to request id: 0, data value: 130
+recorded data channel: 7, data is 698
 recorded data channel: 23, data is 768
-recorded data channel: 2, data is 474
-spike header, channel: 0, timestamp: 7
-response to request id: 0, data value: 0
-response to request id: 0, data value: 7
-response to request id: 0, data value: 99
-recorded data channel: 18, data is 698
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 2
+spike sample value: 898
+spike sample value: 642
+spike sample value: 642
+spike sample value: 898
+spike sample value: 642
+spike sample value: 642
+spike sample value: 898
+spike sample value: 954
 recorded data channel: 23, data is 768
-spike header, channel: 16, timestamp: 2
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 143
-recorded data channel: 22, data is 634
-response to request id: 7, data value: 0
-response to request id: 0, data value: 0
-response to request id: 8, data value: 0
-ack signal
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 113
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 149
-recorded data channel: 22, data is 634
-response to request id: 7, data value: 0
-response to request id: 0, data value: 0
-response to request id: 9, data value: 0
-ack signal
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 107
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 154
-recorded data channel: 22, data is 634
-response to request id: 1, data value: 0
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 102
-recorded data channel: 14, data is 735
-response to request id: 0, data value: 255
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 3
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike sample value: 387
+recorded data channel: 12, data is 643
+spike header, channel: 24, timestamp: 3
+spike header, channel: 24, timestamp: 3
+emonitor value: 899
+response to request id: 28, data value: 131
+response to request id: 0, data value: 131
+response to request id: 0, data value: 130
+recorded data channel: 7, data is 698
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 130
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 642
+spike sample value: 898
+spike sample value: 642
+spike sample value: 698
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+emonitor value: 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 30, data value: 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 17, data value: 131
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 4, data value: 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 29, data is 898
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 898
+recorded data channel: 3, data is 898
+recorded data channel: 7, data is 898
+recorded data channel: 13, data is 898
+recorded data channel: 17, data is 899
+response to request id: 0, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 26, data is 642
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 20, data is 386
+recorded data channel: 3, data is 898
+recorded data channel: 6, data is 898
+recorded data channel: 12, data is 898
+recorded data channel: 15, data is 899
+response to request id: 0, data value: 131
+response to request id: 0, data value: 131
+response to request id: 27, data value: 131
+emonitor value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 17, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 13, data is 898
+spike sample value: 642
+spike sample value: 642
+spike sample value: 642
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 386
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 10, data is 643
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 1, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 2
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 898
+spike sample value: 642
+spike sample value: 898
+spike sample value: 898
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 3
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 24, timestamp: 2
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike header, channel: 8, timestamp: 3
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+spike sample value: 898
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 15, data value: 218
+spike header, channel: 1, timestamp: 1
+response to request id: 1, data value: 131
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 899
+recorded data channel: 31, data is 954
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 218
+spike header, channel: 1, timestamp: 1
+recorded data channel: 29, data is 130
+spike sample value: 898
+recorded data channel: 0, data is 130
+spike sample value: 642
+recorded data channel: 0, data is 130
+recorded data channel: 0, data is 130
+spike sample value: 642
+spike sample value: 898
+spike sample value: 954
+recorded data channel: 23, data is 768
+response to request id: 13, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
+response to request id: 14, data value: 186
+recorded data channel: 23, data is 768
